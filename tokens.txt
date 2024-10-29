@@ -1,0 +1,1097 @@
+La República es un diálogo escrito por Platón (427-347 a.C.) entre los años 390 y 380 a.C., 
+aproximadamente, en el período del corpus platónico considerado de madurez. Actualmente no 
+se discute su autenticidad, aunque algunos especialistas han objetado su carácter unitario (podría 
+tratarse de una reunión tardía de dos o más diálogos, dicen, entre los diez libros que componen 
+el texto). Su nombre griego es Politeia y difícilmente se pueda dar por buena la traducción 
+habitual “República” (el proyecto platónico no es precisamente republicano) a no ser por la 
+tradición que, a partir del De re publica de Cicerón, nos la ha heredado como el nombre propio 
+de un acontecimiento especialmente luminoso, casi iniciático, en la historia del pensamiento occidental (también se llama Politeia el texto de Aristóteles traducido por “Política”, que tiene 
+el mérito de la vaguedad y la resonancia etimológica.) 
+Conrado Eggers Lan utiliza la expresión “régimen sociopolítico” como paráfrasis de “politeia” 
+en el interior del texto, y en efecto los interlocutores de este diálogo cuantioso parecen convoca-dos a responder, por la primera persona de Sócrates, narrador y protagonista, a la necesidad de 
+pensar la forma más perfecta de organizar la polis, la vida en la polis. Pero ¿qué es “polis”?, 
+¿qué significa pensar y responder a la necesidad de pensar precisamente eso, la “polis”?, supone 
+algunos problemas de partida.
+1 
+1.1. Espacios dislocados
+A veces se vuelca “polis” como “ciudad” o “ciudad-estado”, según la táctica que consiste en 
+simplificar una dificultad hasta hacerla desaparecer. Pero ningún vocablo o conjunto de vocablos 
+es capaz de reflejar en nuestra lengua lo que para un griego pudo significar “polis”, su polis en 
+particular o una polis  griega en general. Lo mínimo es señalar el desajuste y proponer bibliografía 
+suplementaria, aunque luego se utilice un término sustituto por comodidad.2 De todos modos 
+habrá que asumir una estrecha vinculación entre el pensamiento y el espacio en que nació como filosofía, de tal suerte que las primeras dos preguntas (¿qué es “polis”?, ¿qué significa pensar?) 
+se reclaman mutuamente desde una zona gris:
+1. Platón: República, Madrid, Gredos, 1986.
+2. J. Vernant: Los orígenes del pensamiento griego, Buenos Aires, Paidós, 2011.i.i introducción
+Por Nicolás Fernández Muriano
+Relecturas.indd   19 02/11/2012   13:41:18i. P latón , entre  lo visible  y lo Pensable
+20La filosofía parece algo griego y coincide con la aportación de las ciudades: haber for -
+mado sociedades de amigos o de iguales, pero también haber instaurado entre ellas y en 
+cada una de ellas relaciones de rivalidad, oponiendo a unos pretendientes en todos los 
+ámbitos, en el amor, en los juegos, los tribunales, las magistraturas, la política y hasta en 
+el pensamiento… La rivalidad de los hombres libres, un atletismo generalizado: el agon.3 
+¿Qué es pensar la polis? El pensamiento griego, que es cosa de la ciudad, hace de la ciudad 
+cosa suya. Ya en la Apología (diálogo temprano ambientado en el espacio del tribunal), Sócrates, 
+acusado de impiedad, se diferencia de filósofos materialistas como Anaxágoras, que se ocupan del Sol y de los elementos de las cosas, en nombre de un ejercicio de la filosofía que reclama 
+retornar sobre sí mismo y sobre los conciudadanos.
+4 Un pensamiento ético y político incipiente 
+rivaliza con un pensamiento physico, cósmico, en el interior de otro duelo, jurídico, que se narra 
+como la acusación y condena histórica de Sócrates.5 Sin embargo, la Apología de Sócrates dice 
+algo más que una mera autodefensa en el sentido jurídico tradicional; antes bien, constituye 
+una apelación soberana y sublime al derecho de pensar e intervenir en los modos de vivir en la 
+polis, más allá de lo que se piense y haga de hecho y más allá de cualquier consecuencia jurí-
+dica: “Ahora yo voy a salir de aquí condenado a muerte por vosotros, y éstos, condenados por 
+la verdad, culpables de perversidad e injusticia” (39b). La rivalidad personal de Sócrates y sus 
+acusadores es ironizada: el ámbito de la verdad es irreductible a la justicia local y actual de los 
+conciudadanos. Sócrates pierde en un espacio (el tribunal) pero gana en otro, mientras afirma el corto alcance del primero con un inapelable: “A mí la muerte me importa un bledo”. La Verdad 
+o, si se quiere, la Justicia, excede la muerte (el poder fáctico del tribunal) y el juicio verdadero 
+se pone por sobre el juicio local, y lo juzga (injusto y falso): juicio sobre juicio, si hay un re-
+torno desde lo cósmico hacia lo ético y lo político, no es para hacer una descripción inteligente de lo que pasa alrededor. Hay un retorno porque lo local, lo actual, está mal, es injusto y obliga 
+a pensar (Sócrates llega a hablar de un mandato divino), pero también hay un desplazamiento 
+hacia un punto desde el cual “lo que pasa alrededor” puede ser juzgado: “La altura es el Oriente propiamente platónico. La operación del filósofo se determina entonces como ascensión, como 
+conversión, es decir, como el movimiento de girarse hacia el principio de lo alto”.
+6 
+Ya en la República: “La polis más perfecta que se pueda pensar” ¿es la misma en la que viven 
+y piensan los interlocutores del diálogo o es un modelo trascendente que sirve de parámetro para 
+el juicio tanto como de modelo a imitar? 
+En relación con el proyecto platónico, se habla frecuentemente de utopía (“platónico” ya casi 
+suena a utopía), pero el asunto está en otro lado. En la medida en que exige una transformación 
+3. G. Deleuze y F. Guattari: ¿Qué es la filosofía?, Barcelona, Anagrama, 2005, p. 10. Estas sociedades de 
+amigos o de iguales no excluían enemigos ni desiguales. La esclavitud y la guerra lo muestran. Las polis griegas 
+distintas de la propia, con sus alianzas y guerras locales, constituyen un umbral entre lo local o lo extranjero que 
+complica cualquier esquematismo bipolar. 
+4. Véase más abajo nota 23.5. M. Serres: Los orígenes de la geometría, Madrid, Siglo XXI, 1996.6. G. Deleuze: Lógica del sentido, Buenos Aires, Paidós, 1994, p. 139.
+Relecturas.indd   20 02/11/2012   13:41:18introducción
+21radical del estado de cosas, el pensamiento siempre está un poco por fuera de su tiempo y de su 
+espacio. La ciudad perfecta es tan distinta de la ciudad actual que permite en su nombre enunciar la crítica más radical contra el presente, pero también proponer un modelo de “perfeccionamiento”, y en todo caso corresponde al pensamiento establecer la vinculación entre una “polis perfecta” y la polis contemporánea. 
+La forma de diálogo escrito ofrece una escenografía inmejorable para un enroque dramático 
+de estas características (pensar la ciudad, pero a partir de “otra ciudad”, que es un modelo per-fecto, para juzgar y transformar la primera en una ciudad mejor). Sócrates se opone a su época 
+tal como la pinta. Lee en ella los síntomas de una decadencia irreversible (su propia muerte, tratada directamente en algunos diálogos, es un fondo dramático constante) y enuncia, como 
+decíamos, una crítica radical: hay que pensar la ciudad desde el principio, hay que darle un 
+(nuevo) fundamento:
+Un Estado de ningún modo será feliz alguna vez a no ser que su plano esté diseñado por los dibujantes que recurren al modelo divino (...) Tomarán el Estado y los rasgos actuales de los hombres como una tableta pintada, y primeramente la borrarán, lo cual no es fácil. En todo caso, sabes que ya en esto diferirán de los demás legisladores, pues no estarán dispuestos a tocar al Estado o a un particular ni a promulgar leyes si no los reciben antes limpios o los han limpiado antes ellos mismos.
+7 
+La pulcritud casi geométrica del “modelo divino” introduce un hiato (que no excluye la 
+violencia) entre la pintura de lo actual: 
+Como si fueran animales, miran siempre para abajo, inclinándose sobre la tierra, y devoran sobre las mesas, comiendo y copulando, y en su codicia por estas cosas se patean y cornean unos a otros con cuernos y pezuñas de hierro, y debido a su voracidad insaciable se matan, dado que no satisfacen con cosas reales la irreal parte de sí mismos que las recibe. […] —Como un oráculo, Sócrates –dijo Glaucón–, describes el modo de vida de la mayoría.
+8 
+Y la vida en la mejor ciudad que se puede pensar a partir de aquel modelo: 
+Una vez que la organización del Estado se pone en movimiento adecuadamente, avanza creciendo como un círculo. En efecto, la crianza y la educación, debidamente garantizadas, forman buenas naturalezas y, a su vez, las buenas naturalezas, asistidas por semejante educación, se tornan mejores aún que las precedentes en las distintas actividades y también en la procreación, como sucede también con los otros animales.
+9 
+Nunca se insistirá lo suficiente en la vocación política del proyecto de Platón. Pensar la polis 
+para transformarla, pensar al hombre para mejorarlo.
+7. Platón, República, 501a. Sobre la “fundamentación”, véase más abajo notas 16 y 18.
+8.
+Ibidem, 586a.
+9.Ibidem, 424a.
+Relecturas.indd   21 02/11/2012   13:41:18i. P latón , entre  lo visible  y lo Pensable
+221.2. Tiempos contraídos
+No sólo más de dos mil años nos separan de la concepción de la República. En primer lugar, 
+el texto comprende una historia mayor, incluso una filosofía de la historia que vuelve a contarnos 
+el movimiento del pasado hasta el presente de la enunciación en un sentido determinado (según 
+en qué formas degeneran las ciudades hasta la situación actual y cómo se cae irremediablemente 
+en la tiranía), acorde con la desvaloración platónica de los entes sujetos a devenir y cambio. Por 
+otro lado, un modelo político que no tiene ni tuvo lugar en el tiempo, sin embargo, insiste desde 
+hace dos mil años entre nosotros (las ciudades no duraron tanto) tomando distintas encarnacio-
+nes, acentos o intereses, eslóganes (viejas fórmulas como “comunismo”, “igualdad de géneros”, 
+“educación pública”, “intromisión del poder político en lo privado”, “censura”, “derecho a la 
+mentira política”, “cría y reproducción de hombres según modelos de agrocultivo y pastoreo”, 
+etc., encuentran aquí sus primeras formulaciones). En tercer lugar, a lo largo de la historia de 
+la filosofía (y no sólo de la filosofía), las lecturas y discusiones que lo han canonizado como un 
+texto fundamental de la cultura occidental nos proponen y nos imponen modos de abordaje que 
+muy esforzadamente aprendemos a separar del abordaje mismo, de modo que nos abren tanto 
+como nos cierran la posibilidad de su lectura. 
+Borges decía que los clásicos se leen con previo fervor, pero hay muchas otras cosas pre-
+vias que se juegan en el presente de una lectura (no siempre tan calurosas como el fervor). En 
+el caso de Platón esto es notable porque su obra tiene valor de Comienzo, de “texto de lectura 
+obligatoria”, porque una historia de la filosofía que siempre se cuenta tiene en la obra de Platón 
+la cesura del antes y el después. 
+Dos autores contemporáneos muy distintos entre sí escriben al respecto:
+La tácita norma por la que se interpreta y juzga a los primeros pensadores es la filosofía 
+de Platón y Aristóteles. Ambos pasan por ser los filósofos griegos que marcan la pauta 
+tanto para lo que les precede como para lo que les sucede.10
+¿Y si definiésemos, en última instancia, como filosofía cualquier empresa encaminada a in-
+vertir el platonismo? ¿Empezaría cada una articulando en ella el gran rechazo? ¿Se dispondrían 
+todas alrededor de este centro deseado-detestable?11 
+1.2.1. Heráclito y Parménides: una rivalidad histórica al interior del corpus platónico
+ En el siglo V a.C., Heráclito, el oscuro, había lanzado al pensamiento un desafío: “Todo 
+cambia y nada permanece”, según la cita de Platón en el Cratilo. La afirmación de un devenir 
+universal, agrega después, es la expresión filosófica de “cosas sabias y añejas, simplemente de 
+los tiempos de Rea y Cronos”. Cosas dichas de otra manera por voces tan venerables como las 
+de Homero y Hesíodo. Aún más, sigue: hay un heraclitismo popular velado en las raíces de las 
+10. M. Heidegger: Caminos de bosque, Madrid, Alianza, 1996, p. 291.
+11. M. Foucault, y G. Deleuze: Tehatrum Philosophicum, Barcelona, Anagrama, 1999, p. 9. 
+Relecturas.indd   22 02/11/2012   13:41:18introducción
+23 23palabras, como un fondo de sentido que anima la concepción que los griegos se hacen de las 
+cosas y remite a las primeras denominaciones del mundo. Antes de analizar los contenidos de estos enunciados, consideremos ciertas formas. 
+Quedar remitido a una tradición popular no es, en la jerga de la filosofía naciente, una ca-
+lificación positiva. Ya casi es un contraargumento a favor del rival. Sin embargo, sólo a partir del umbral filosófico que esa creencia ha alcanzado con Heráclito se ha vuelto sensible a los argumentos, se ha vuelto rival. Platón tiene una conciencia extrema de la imposibilidad de dis-cutir con Homero (y el pueblo “escucha Homero”).
+12 Más allá de la justeza histórica de lo dicho 
+sobre la popularidad de Heráclito, la estrategia platónico-socrática abre dos frentes recursivos: 
+ – H
+eráclito no ha pensado radicalmente, es decir, sigue fundando su pensamiento en la 
+creencia popular. 
+ – A 
+través de Heráclito la tradición se expresa y puede ser criticada en bloque: Homero, 
+Hesíodo y aquellos “legisladores de la lengua” que antiguamente pusieron los nombres a las cosas dejaron en las raíces de las palabras que inventaron las pruebas del heraclitismo 
+salvaje que “hoy” (lo actual) afecta el modo de hablar y de pensar de la mayoría. 
+Consideremos ahora los argumentos en favor y en contra del devenir universal. Según la 
+máxima de Heráclito, que el propio Platón reelaboró para que hiciera historia: “No podrías sumergirte dos veces en el mismo río”.
+13 Esto parece fácil de conceder: en el intervalo entre dos 
+inmersiones, el río y el bañista ya no son lo mismo. Las cosas dejan de ser lo que eran y llegan a ser lo que no eran (devienen). El cambio es un raro comercio entre ser y no-ser, donde la identi-dad hace agua. El río ya no es el río, la noche se ha hecho día. No obstante, si algo difiere de sí mismo en un intervalo cualquiera, podemos pensar todavía dos cosas distintas en los términos extremos, la noche y el día, por ejemplo, cada una idéntica a sí misma en un instante. Ahora es de noche, ahora es de día. Ahora me sumerjo en este río. Pero, como acota el impermeable Cratilo, “ni siquiera una vez nos sumergimos en el mismo río”, en otras palabras, cualquier instante que tomemos como término ya es un intervalo donde ocurre el cambio. No podemos suponer que la noche deja de amanecer o que el día deja de atardecer, siquiera un instante, cenital, presentando al pensamiento la plena identidad de la cosa consigo misma. La noche no pierde su identidad cuando se convierte en día, nunca la alcanza, nunca se detiene el devenir. En el diálogo que lleva su nombre, Cratilo no saca las conclusiones que el platonismo afronta incansablemente a lo largo de todo el corpus.
+14 Pero en el amanecer del pensamiento, parece haberle dicho a la 
+filosofía: No puedes nacer. No es posible pensar algo. Ni siquiera podemos nombrarlo. Apenas 
+lo señalamos, pero el dedo llega demasiado tarde y la cosa ya ha cambiado. He aquí el fondo de sentido que Platón encontraba en las palabras de los griegos y que Heráclito y sus seguidores tan 
+12. La famosa disputa y expulsión de los poetas en la República  se trata brevemente en el último apartado de la
+presente selección (consultar “Arte y realidad”).
+13. Platón, Diálogos II, Cratilo, Madrid, 1992, 402a-b.14. “La reacción contra el pensamiento del devenir explica en gran parte todo el desarrollo de la metafísica enOccidente después de Heráclito.” J. Wahl: Tratado de metafísica, México, Fondo de Cultura Económica, 1960, 
+p. 35.
+Relecturas.indd   23 02/11/2012   13:41:18i. P latón , entre  lo visible  y lo Pensable
+24sólo formularon: señalar lo que cambia, antes que conocer aquello que en el cambio permanece 
+idéntico a sí mismo. 
+Pero ¿sólo se puede pensar lo que permanece idéntico?, ¿es la identidad de lo que es consigo 
+mismo la condición del pensamiento? 
+Es lo que una diosa le ha dicho a Parménides con todas las letras: sólo es pensable que lo 
+que es no puede no ser, y que lo que no es no puede ser.15 Con variaciones, el corpus platónico 
+repite este enunciado, entre otras apreciaciones valorativas como “Parménides, como el héroe 
+homérico, es venerable y temible”, o bien directamente “nuestro padre Parménides”.16 En ambos 
+diálogos, Sócrates alude a un supuesto encuentro personal (en su juventud) con el polémico filósofo, cuya imposibilidad histórica está bien documentada y permite considerar el tipo de es-trategias que la puesta en escena de la filosofía incorpora. Heráclito escribía “no escuchándome 
+a mí sino al Discurso”, el filósofo es el intermediario entre un discurso que es real, verdadero, 
+por sí mismo, un discurso que se manifiesta en el movimiento común de todas las cosas y que 
+organiza el mundo como una Ley, sea o no enunciado por hombre alguno. Platón convoca un 
+diálogo entre dos muertos. Pero dejemos esto para más adelante y concentrémonos en la es-
+trategia parmenídea. Parménides evoca el encuentro con una diosa, luego de un viaje desde el 
+mundo hacia las puertas de la verdad. Desde aquel “otro lugar”, es la divinidad la que toma la palabra (“tú preserva el relato después de escucharlo”). Es una diosa la que levanta, con una 
+fuerza argumentativa novedosa (“la persuasiva verdad”), la famosa disyuntiva de hierro de la 
+filosofía clásica: es o no es, y no es concebible una “tercera vía” (que algo sea y no sea). Todo 
+comercio entre ser y no-ser queda prohibido. Nada deviene, nada cambia. Las cadenas de la 
+necesidad sostienen a toda costa la identidad de lo que es consigo mismo. Y el pensamiento, si 
+piensa algo, piensa lo que es, es decir, piensa algo. Lo que no es no puede ser pensado de ningún 
+modo (¿cómo pensar lo que no es nada?). Por eso, con la identidad de lo que es consigo mismo, 
+se afirma, como dice Heidegger, la identidad del pensamiento y el ser.
+17 El pensamiento y el 
+ser, dice este autor, se “pertenecen mutuamente”. Pero volvamos al mundo, hacia las cosas que vemos: el río cambia y no puede ser pensado: ¿acaso no es? Nada de lo que vemos a nuestro 
+alrededor permanece idéntico a sí mismo, todo está afectado de no-ser. Algo nace, cambia, muere. 
+No puedo pensar que es sin admitir a la vez (siquiera una vez) que no es, que no era, que deja 
+de ser. La consecuencia de Parménides es drástica y polémica: todo esto que vemos y llamamos “nuestro mundo” es apariencia de ser, pero no es nada en absoluto. Una apariencia, una ilusión. 
+Algo que no puede ser pensado. Porque el cambio no es posible, como tampoco es posible la 
+multiplicidad de los seres (cada uno no es el otro. Pero al ser no le puede faltar ser). Sólo un ser 
+15. “Pues bien, yo te diré — tú preserva el relato después de escucharlo—/ cuáles son las únicas vías de 
+investigación que son pensables: / Una, que es y que no es posible que no sea, / es la senda de la persuasión, pues acompaña a la verdad. /La otra, que no es y que es necesario que no sea, / ésta, te lo señalo, es una senda 
+que nada informa, / pues no podrías conocer lo que, por cierto, no es (porque no es alcanzable, ni lo podrías 
+mostrar)”, Parménides, D-K 2.16. Platón, Diálogos V ,  Teeteto, Madrid, 1992, 183e. Platón, Ibidem, Sofista, 241d.17. “Pues lo mismo es para pensar y para ser”, D-K 3. Cfr.: “Tenemos que afirmar que en la aurora del pensar la propia identidad habla mucho antes de llegar a ser principio de identidad, y esto en una sentencia que afirma que 
+pensar y ser tienen su lugar en lo mismo y a partir de esto mismo se pertenecen mutuamente”. M. Heidegger: 
+Identidad y diferencia, Barcelona, Anthropos, 1990, p. 69.
+Relecturas.indd   24 02/11/2012   13:41:18introducción
+25es posible-pensable: “Total, único, inconmovible y completo”.18 De este modo, Parménides dice 
+a la filosofía: el mundo, con todo lo que hay en él, no puede nacer, no puede ser ni ser pensado. 
+Sólo hay un ser, que trasciende a este mundo. Lo demás es mera apariencia. 
+El resultado no podía ser menos alentador (un pensamiento sin mundo, que piensa un ser 
+trascendente y único, sin ninguna relación con nosotros, o un mundo sin pensamiento, de múl-
+tiples flujos de devenir sin identidad) y ambos caminos desembocan en la sofística:
+Por una parte, tenemos la teoría de Protágoras, según la cual todas las cosas cambian sin cesar y ninguna es lo que es; la verdad es relativa y el hombre es la medida de todas las cosas. Y por otra, tenemos la teoría de Gorgias, resultante de la filosofía de Parménides… No podríamos conocer el ser si existiera, porque no podría haber relación entre este ab-soluto y nosotros, y si lo conociéramos, no podríamos formularlo.
+19 
+1.3. Diálogos escritos: un oxímoron
+En la historia de la filosofía que conduce a Platón, a través de Platón, la oposición Heráclito-
+Parménides es tan simétrica que parece trucada en provecho de una necesidad de Sócrates, el Odiseo del pensamiento. No falta la leyenda, que permite concebir la estrategia de enunciación platónica. La escritura de la voz del maestro muerto, que murió en la polis, en manos de sus conciudadanos, y que no escribió mientras estuvo vivo (Sócrates, el que no escribía). El escritor que abandonó la escritura (Platón habría quemado sus tragedias) cuando murió el maestro, para consagrarse a escribir su voz (¿y mantenerla viva?). ¿Qué estrategia es ésta? Hacer hablar a los muertos en la escritura, en todo caso, es una práctica central de nuestra cultura (Cristo y Sócrates) cuyo tratamiento excede cualquier presentación. La noción de diálogo escrito es de por sí un 
+oxímoron (como un círculo cuadrado), que parece arrastrar esa tensión como una imposibilidad (en el Fedón, Sócrates dice que es imposible que la escritura haga justicia a la voz, que es más 
+lo que se pierde que lo que se gana en el traslado a esa forma inmóvil de conservación que deja escapar lo más vivo de las voces: el alma de los interlocutores ausentes). En todo caso, más allá del alcance estratégico y de los conflictos internos que supone esta forma de enunciación, este retorno escrito de la voz del muerto, en el plano de los contenidos, es la tensión entre identidad 
+y devenir la que retorna, es el duelo entre Heráclito y Parménides lo que la voz de Sócrates viene 
+a resolver desde la escritura, para poner en marcha la historia del pensamiento. 
+Platón hace suyas las tesis más generales del heraclitismo en torno al devenir, aunque las 
+limita a la realidad sensible, es decir, al entorno de cosas que vemos y tocamos. ¿Quiere decir esto que la realidad sensible está excedida por una realidad suprasensible, como lo era el ser de 
+Parménides, sólo accesible por medio del pensamiento? Algo cambia, algo no (frente a la opción “todo cambia” o “nada cambia” se conserva la tensión). Algo es, por lo tanto, en dos sentidos 
+18. “Que siendo ingénito es también imperecedero, / total, único, inconmovible y completo. / No fue alguna
+v
+ez, ni será, pues ahora es todo junto. / Uno solo, continuo”, D-K 8. 
+19. Wahl: op. cit., p. 85.
+Relecturas.indd   25 02/11/2012   13:41:18i. P latón , entre  lo visible  y lo Pensable
+26distintos: el sentido común del heraclitismo (lo que es cambia, deviene otro o deja de ser), “el 
+ser” que se predica de las cosas sensibles, y el sentido de la identidad de lo que es consigo mis-mo. Un ser inteligible, se dirá: Eidos o Idea. De este modo, la inteligencia es a la Idea lo que los 
+ojos son a lo que deviene. Esto lo vemos, aquello lo pensamos. El problema que dejaba abierto Parménides es éste: ¿podemos pensar lo que vemos?
+Si el cambio es un comercio de ser y no-ser, como se dijo, lo que pide el pensamiento para 
+codearse con su mundo es un garante. El término ousía, que Platón modifica y suele traducirse 
+como “esencia”, significaba en griego precisamente “respaldo financiero”, y en su acepción me-
+tafísica vendrá a ser como un respaldo de identidad.
+20 Otra vez: el río cambia, renunciar a esto es 
+renunciar al mundo, pero cuando digo “río”: ¿no pienso siempre lo mismo, el mismo concepto, aunque este río en particular cambie o aunque nosotros cambiemos de río? “Río” dice lo mismo 
+de cosas distintas, es un término “universal”. En cierto sentido, todo este grupo de cosas es lo 
+mismo (río) y en cierto sentido son todas distintas (ríos). Y aunque todos los ríos del mundo se 
+evaporaran hoy, el concepto no perdería una gota de sentido. El pensamiento piensa lo mismo de 
+cosas distintas, nombra por la identidad lo que no tiene identidad (“esto es un Río”). ¿Con qué 
+derecho? ¿Qué es lo común, universal, unívoco, esto que el cambio no afecta y permite identificar 
+las cosas con el pensamiento y reunirlas en un grupo de seres que pertenecen a lo mismo (ríos, 
+montañas, vacas: todo lo que pensamos, lo identificamos por medio de un nombre común, un 
+universal)? ¿Qué es esa ousía, esa esencia común, ese rasgo distintivo que hace que un río, por 
+mucho que sus aguas cambien, siga siendo un río y, por lo tanto, que nosotros podamos pensar -
+lo como tal o “en cuanto tal”, es decir, en cuanto a su esencia? Es la Idea, cuya determinación conceptual será expuesta por Platón en los llamados “diálogos medios o de madurez”.
+1.3.1. Periodización
+El corpus de Platón se suele presentar en tres períodos que expresan el movimiento de la 
+pregunta anterior (lo que nos daría un criterio textual, más que biográfico, de clasificación): 
+ –Diálogos tempranos o de juventud (399-385 a.C.): Apología de Sócrates , Critón , Laques , 
+Eutifrón , Protágoras , Gorgias , Ion, entre otros. “El primer grupo –dice Guthrie– concentra 
+su atención en las cuestiones morales y en las definiciones características del Sócrates 
+histórico” (Guthrie, 1996: 57): ¿qué es valentía, qué es la virtud?, ¿qué rasgos distintivos 
+nos permiten considerar que un grupo de actos o estados pertenecen a lo que llamamos 
+justo, virtuoso?, etc. Cuando hablamos, atribuimos existencia y distinguimos de hecho con 
+las palabras (predicados o universales) ciertas multiplicidades (las cosas que son valientes 
+o virtuosas), la pregunta ¿qué es X? dirige la indagación hacia aquellos rasgos o caracteres 
+comunes que no pueden faltar para que algo sea un X. De este modo, se alcanza una diferen -
+cia de niveles, en principio lógicos, entre las cosas individuales, cambiantes, y el concepto universal, invariable, idéntico: Juan es valiente, Pedro es valiente. ¿Qué es valentía? Hay identidad para el pensamiento porque el pensamiento es conceptual, genérico. Piensa la 
+20. C. Eggers Lan: El sol, la línea y la caverna, Buenos Aires, Colihue, 2000, p. 74.
+Relecturas.indd   26 02/11/2012   13:41:18introducción
+27identidad (valentía) y la predica de individuos diferentes (Pedro, Juan). Algunos textos de 
+este corpus son llamados diálogos aporéticos: el problema queda sin resolver, aunque la 
+dirección de la pregunta (¿qué es X?) está bien determinada retrospectivamente. Dicho de 
+otro modo, la solución de la aporía sólo aparecerá en un período subsiguiente del corpus 
+platónico. La dimensión conceptual que se ha diferenciado lógicamente (los universales) 
+necesita una garantía real, ontológica, pues es un hecho que usamos conceptos. Nos va -
+lemos de términos universales para pensar, son los predicados de nuestros juicios: ¿están ellos respaldados? Veo cosas distintas, que cambian, como quería Heráclito, pero pienso 
+una, que no cambia. ¿Pienso en algo que es real , según la exigencia de Parménides, o en 
+una mera construcción intelectual o convención social, según las derivaciones sofísticas? 
+ –Diálogos medios o de madurez  (385-370 a.C.): Menón , Fedón , República , Banquete , 
+Fedro , entre otros. En este grupo, dicen los helenistas, la teoría de las Ideas se encuentra 
+desarrollada explícitamente (i.e. ¿qué es lo justo? Lo justo en sí , etc.). 
+En la República las Ideas se introducen en el diálogo como un asunto ya conocido y acep -
+tado. Otras veces se nos dirá que es preciso afirmar su existencia a toda costa. Existen 
+Ideas que poseen en grado sumo los caracteres o rasgos (lo bello en sí, etc.) que definen 
+los términos con que distinguimos cada multiplicidad. El término “bello” sólo posee 
+un sentido unitario a partir de la Idea que existe por sí misma, no es el resultado de una 
+inducción o un conteo de rasgos comunes que encontramos en las cosas. Al contrario, 
+la Idea es la unidad real a partir de la cual existen y se piensan aquellas multiplicidades 
+como constituyendo una cierta unidad que identificamos con el lenguaje. La Idea respalda 
+así el uso de los términos universales, sin ser ella universal. Cuando pensamos la Idea, 
+pensamos un ser perfectamente individuado. La Idea como unidad real e identidad real, 
+a su vez, unifica e identifica lo múltiple. Es la esencia única de las cosas múltiples. Cada 
+Idea garantiza la referencia que nos permite fijar el sentido de los conceptos por medio de 
+los cuales pensamos las cosas. Es un ser inteligible, que se piensa y existe por sí mismo, 
+es decir, es un ser en sí y por sí . A partir de la Idea, que no cambia, existen y pueden ser 
+pensadas las cosas que cambian, como siendo sus imitaciones, seres derivados y segun -
+dos, más o menos semejantes, pero nunca idénticos: algo es bello por su semejanza a la 
+Belleza en sí, no por sí mismo . Algo es río por su semejanza con la Idea de río, no por sí 
+mismo. Pensamos en la Idea, cuyos rasgos definitorios reconocemos, en mayor o menor 
+grado, en las cosas que vemos. Aquella diferencia lógica entre los términos individuales y los universales encuentra aquí su fundamentación o garantía ontológica. Por eso decimos 
+que “algo es” en dos sentidos distintos: de las cosas sensibles, cuya existencia depende 
+de otra clase de seres: las Ideas. Pero ¿de qué modo es posible concebir el vínculo, o para decirlo con un vocabulario más preciso, la participación (methexis) de las cosas sen -
+sibles en la realidad trascendente de las Ideas ?, constituye el punto más controvertido 
+del platonismo, sea porque Platón lo da por bueno, sea porque introduce, a partir de los 
+llamados “diálogos tardíos”, una serie de críticas (algunas serán retomadas por Aristóteles) 
+que demuestran una clara conciencia del problema, sin jamás ofrecernos una solución. 
+La más sencilla de todas ellas es la siguiente: los que postulan Ideas para explicar las 
+cosas sensibles duplican innecesariamente el número de cosas que hay que explicar . Por 
+Relecturas.indd   27 02/11/2012   13:41:18i. P latón , entre  lo visible  y lo Pensable
+28lo demás, insistirá Aristóteles, el lenguaje platónico utilizado para enunciar la relación 
+(methexis o participación, paradeigma o arquetipo) sólo tiene un sentido metafórico y 
+no conceptual , es decir, no explica nada, sólo sugiere. El sentido general de las críticas 
+va en esta dirección: Platón no demuestra la existencia de Ideas, sino sólo la posibilidad 
+de enunciar de muchas cosas un único predicado , es decir, sólo la diferencia lógica, pero 
+no su fundamentación ni su concepción de la realidad. 
+ – D
+iálogos tardíos (370-347 a.C.): Parménides , Teeteto , Sofista , Político , Timeo , Cartas , 
+entre otros. Desde el punto de vista compositivo, en este grupo de textos, tiende a pasar 
+a segundo plano, si no a desaparecer, la figura de Sócrates. Esto parece ser la expresión formal de una tendencia más profunda: la revisión crítica de la teoría de las ideas ( Par-
+ménides ). Aun del principio de Identidad “hemos desobedecido a Parménides más de lo 
+permitido” (Sofista , 258c). Una revalorización positiva (siempre relativa) del mundo de 
+las cosas sensibles, como si hubiese en ellos alguna racionalidad independiente de las 
+Ideas ( Timeo ). Una nueva definición de lo que es un simulacro ( Sofista ) en oposición al 
+carácter meramente mimético de las imágenes. Si consideramos que hablamos de Identi-dad, de Ideas, seres sensibles y, finalmente, imágenes o copias, casi podemos asumir que el corpus platónico en este período se modifica en relación con los cuatro modos de ser que éste concibe y constituyen la trama, o mejor, la jerarquía de lo real tal como ha sido planteada en el período anterior. La relación entre la Identidad, como fundamento único, y las Ideas se expone en la Alegoría del Sol . En la Alegoría de la línea se expone una 
+clasificación jerarquizada de los tipos de seres que concibe el platonismo y de los modos de acceso cognoscitivo de los hombres con respecto a esa clasificación. En la Alegoría de 
+la caverna , la distinción fundamental seres sensibles-seres inteligibles es utilizada para 
+describir los modos de vivir en la ciudad y la necesidad de una conversión de esos modos de vida. La relación entre los seres sensibles y sus copias se trata en el apartado “Arte y realidad”, que es una selección del libro X de República , cuyos problemas generales 
+comentamos brevemente. 
+1.4. Arte y realidad
+ El libro X se abre con una frase que parece excesiva: “Y en verdad –dije–, aunque me atengo 
+a muchas razones para creer que estamos fundando el Estado más perfecto posible, lo afirmo, sobre todo al considerar nuestro reglamento sobre la poesía.”
+21 ¿Cómo es posible que la poesía 
+afecte el fundamento de un Estado o que una fundamentación política se evalúe por su regla-mentación sobre la poesía? Reconsideremos este fragmento: 
+Un Estado de ningún modo será feliz alguna vez a no ser que su plano esté diseñado por los dibujantes que recurren al modelo divino [...] Tomarán el Estado y los rasgos actuales de los hombres como una tableta pintada y primeramente la borrarán, lo cual no es fácil. 
+21. Platón, República, 595a.
+Relecturas.indd   28 02/11/2012   13:41:18introducción
+29En todo caso, sabes que ya en esto diferirán de los demás legisladores, pues no estarán 
+dispuestos a tocar al Estado o a un particular ni a promulgar leyes si no los reciben antes limpios o los han limpiado antes ellos mismos.
+22
+Este fragmento articula dos elementos para pensar la fundación del Estado según la concep-
+ción platónica. Primero, un Estado correctamente fundado tiene como modelo los principios trascendentes: el Bien en sí, la Justicia en sí, etc. La fundación política tiene un fundamento trascendente. En segundo lugar, el legislador que ha de recurrir a un modelo trascendente tiene la necesidad de borrar todos los rasgos que, existiendo de manera previa a la fundación, no par-
+ticipan de esa remisión. Y en efecto hay algo en la poesía que resulta inasimilable para la polis “más perfecta posible”. Algo del orden de lo irracional que Platón identifica como fuente de un Estado lujoso y decadente, en cuanto introduce cierta forma de engaño que lleva al hombre a la inversión de las relaciones entre las “diversas partes del alma” (una apetitiva, otra irascible, otra intelectiva), debido a aquel principio de insatisfacción que supone “alimentar con cosas irreales la irreal parte del alma que las desea”. Cada parte del alma tiene su objeto, el apetito, deseo de alimento; lo irascible, deseo de gloria; la inteligencia, deseo de conocimiento. Pero sólo la inteligencia posee el “antídoto” contra los falsos objetos de deseo que introducen un principio de insatisfacción que tiende al exceso. Mientras la poesía ha sido, piensa Platón, una fuente de gloria falsa que hace de los tiranos como dioses, “sí, elogia a la tiranía diciendo que hace ‘igual a los dioses’, y muchas otras cosas, no sólo él (Eurípides), sino también los demás poetas”,
+23 que 
+canta y proclama como modelos de vida, formas completamente enfrentadas con los principios ético-filosóficos. La poesía será como el modelo estructural de toda forma de incitación al exceso, pero sobre todo guarda con las aspiraciones políticas de Platón una relación de oposición radical. Históricamente, ha sido la poesía la que ha educado a los jóvenes, según modelos de vida que no son precisamente los que la filosofía propone. Ha cantado sobre divinidades que cometen toda clase de violencia y engaño, que metamorfosean su aspecto tanto como sufren todas las pasiones y debilidades de los hombres, que en cierto modo justifican, constituyéndolos como ejemplos a imitar. La estrategia típica de Platón es asimilar estos modos de vivir con los de las bestias. La divinidad en Platón, en cambio, debe ser ejemplarmente promotora de la identidad, la inteligencia y la veracidad: 
+El dios es quien menos podría adoptar formas múltiples [...] pues entonces, querido ami-go, que ningún poeta nos venga a decir que dioses, semejantes a extranjeros de todas las 
+partes, / tomando toda clase de apariencias, visitan las ciudades. Ni que nadie cuente 
+mentiras acerca de Proteo, y de Tetis, ni presente a Hera... transformándose en una sa-cerdotisa mendigando.
+24 
+Pero la poesía es la voz de la tradición . Si el legislador debe “borrar” antes de fundar el Estado, 
+en cierto modo es la totalidad del pasado lo que debe blanquearse para realizar una modificación 
+22. Platón, República, 501a.
+23. Platón, 
+República, 568b
+24. Platón, República, 381b-d.
+Relecturas.indd   29 02/11/2012   13:41:18i. P latón , entre  lo visible  y lo Pensable
+30absoluta de las costumbres, de las que la poesía es la voz viviente y cuya ascendencia sobre el 
+pueblo nunca dejará de denunciar.
+El hilo conductor de la denuncia y posterior exclusión de los poetas y sus obras será la noción 
+de téchne (“arte” o “técnica” en la presente edición): ¿es o no es técnica tal actividad?, ¿posee un 
+conocimiento el que la ejecuta?, ¿es capaz de enseñarla?, ¿qué clase de objetos produce? En otras palabras, es por medio de la noción de “técnica” que Platón evalúa, por un lado, la legitimidad 
+de una práctica humana y su inserción en el seno de la polis (¿qué necesidad satisface?), y por 
+el otro, la realidad del objeto producido y su inserción en la escala de los seres (¿qué tipo de ser 
+produce?, ¿uno real o una imagen?). En uno de sus diálogos de juventud (Ion), había escrito: 
+Porque no es una técnica lo que hay en ti al hablar bien sobre Homero; tal como yo decía 
+hace un momento, una fuerza divina es la que te mueve, parecida a la que hay en la piedra 
+que Eurípides llamó magnética y la mayoría, heráclea. Por cierto que esta piedra no sólo 
+atrae a los anillos de hierro, sino que mete en ellos una fuerza tal que pueden hacer lo 
+mismo que la piedra, o sea, atraer otros anillos, de modo que a veces se forma una gran 
+cadena de anillos de hierro que penden unos de otros. A todos ellos les viene la fuerza que 
+los sustenta de aquella piedra. Así, también, la Musa misma crea inspirados, y por medio 
+de ellos empiezan a encadenarse otros en este entusiasmo. De ahí que todos los poetas 
+épicos, los buenos, no es en virtud de una técnica por lo que dicen todos esos bellos poe-
+mas, sino porque están endiosados y posesos… Porque es una cosa leve, alada y sagrada el poeta, y no está en condiciones de poetizar antes de que esté endiosado, demente, y no 
+habite ya más en él la inteligencia. Mientras posea este don, le es imposible al hombre 
+poetizar y profetizar. Pero no es en virtud de una técnica como hacen todas estas cosas y 
+hablan tanto y tan bellamente sobre sus temas, cual te ocurre a ti con Homero, sino por 
+una predisposición divina, según la cual cada uno es capaz de hacer bien aquello hacia 
+lo que la Musa le dirige; uno compone ditirambos, otro loas, otro danzas, otro epopeyas, 
+otro yambos. En las demás cosas cada uno de ellos es incompetente. Porque no es gracias 
+a una técnica por lo que son capaces de hablar así, sino por un poder divino, puesto que 
+si supiesen, en virtud de una técnica, hablar bien de algo, sabrían hablar bien de todas 
+las cosas.
+25 
+Que el poeta es una cosa ligera, alada y sagrada es una de las expresiones más bellas y 
+poéticas jamás dichas al respecto; en su contexto, sin embargo, se torna netamente irónica. Poco más o menos, y aprovechando la tradición que otorga a los poetas cierta relación preferencial 
+con las Musas u otras divinidades, se dice que el poeta no tiene ninguna virtud propia, que no 
+posee una técnica específica, sino que sus productos son dictados por la inspiración demoníaca 
+o divina. La alternativa es excluyente: o bien se poetiza o bien se posee inteligencia (noûs). En 
+el Platón maduro de República , poseer una técnica será una condición indispensable para habitar 
+la polis (cada ciudadano debe ocuparse de su técnica y satisfacer una necesidad colectiva), toda 
+técnica, en su nivel, supone inteligencia (hasta el mero artesano precisa modelos intelectuales 
+25. Platón, Ion, 533d-534c.
+Relecturas.indd   30 02/11/2012   13:41:18introducción
+31para crear), pero el poeta ni piensa ni puede obedecer al que piensa, pues no está en dominio 
+de sí mismo cuando compone. El poeta está en éxtasis, fuera de sí, en un estado casi alucinato-
+rio, pero esto sólo es el comienzo del verdadero problema, que se extiende por los anillos que 
+traban cadena, y consiste en el alto impacto emocional, el poder de contagio, digamos así, que empuja al éxtasis y al estado casi alucinatorio al auditorio, es decir, a la multitud, al pueblo. Es 
+la efectividad del poema, en términos colectivos y políticos, evidentemente, lo que moviliza la 
+reflexión platónica temprana contra los poetas.
+Será en la República, y a la luz de la doctrina de las Ideas, que el modelo técnico de evalua-
+ción se concentrará en el objeto, es decir, en el producto de la poesía (y de la pintura). Un objeto 
+realizado “sin técnica” no puede tener un modelo intelectual de producción (como, en cambio, un fabricante de camas debe pensar “qué es una cama” antes de fabricar una), de este modo, 
+dice Platón, los productos de la poesía se limitan a ser copias superficiales del mundo visible, 
+a la manera de los espejos. Ahora bien, los seres visibles son, ellos mismos, imitaciones de las 
+Ideas, seres dependientes que deben su realidad a otros. En consecuencia, los productos de la poesía serán “copias de copias”. En otras palabras, si la Idea es un ser en sí mismo y la cosa 
+visible, un ser por participación, menos real que su arquetipo, los productos de la poesía caerán 
+a un nivel inferior, tres veces alejado de la realidad en sí y de lo verdadero. De este modo, las 
+producciones en cuestión quedan degradadas en su ser por debajo de las cosas visibles (un poema 
+es menos real que una cama y que un zapato). La estrategia argumental en República consiste, 
+precisamente, en situar a los productos del arte mimético en el último escalón de la realidad, en 
+el grado más bajo de la escala de los seres (“copias de copias”). 
+Prosiguiendo con el hilo conductor de la argumentación platónica, en un diálogo tardío ( Sofis-
+ta), puede rastrearse cómo la “técnica” modela la comprensión que Platón tiene de la realidad en 
+general, hasta el punto de considerar “técnicos”, también, a los objetos de la naturaleza, creados 
+por un Dios mediante un saber a partir del cual se podrán evaluar las producciones humanas, en 
+particular en el ámbito de las “imágenes”: 
+¿No diremos acaso que no es sino por obra de un dios artesano y no de otro modo como 
+llega a ser todo cuanto antes no existía (paso de no-ser a ser), a saber, todos los animales 
+mortales, las plantas que crecen sobre la tierra a partir de semillas y raíces, y todos los 
+cuerpos inanimados, tanto fusibles como no fusibles, que están compuestos en el interior 
+de la tierra? O, valiéndonos de la concepción y de la terminología de la multitud… dire-
+mos que la naturaleza los engendra a partir de cierta potencia automática, producida sin 
+inteligencia, o bien elaborada con razón y con una ciencia divina, surgida de un dios… 
+Sostendré, de todos modos, que lo que se llama “por naturaleza” está producido por una técnica divina, y por una técnica humana lo que está compuesto por los hombres a partir 
+de ello. Según este argumento, entonces, hay dos clases de producción: una es humana; 
+la otra, divina… Corta nuevamente en dos cada una de ellas. […] Surgen entonces, en 
+total, cuatro partes de ella: dos, humanas, respecto de nosotros; y dos, divinas, respecto de 
+los dioses… En lo que respecta a aquella primera división, una parte de cada una de las 
+partes es productora de realidades, mientras que las otras dos restantes deberían llamarse, 
+principalmente, productoras de imágenes. Y respecto de esto, la producción se divide de 
+Relecturas.indd   31 02/11/2012   13:41:19i. P latón , entre  lo visible  y lo Pensable
+32nuevo en dos... Nosotros mismos, así como los demás seres vivos y cuanto se produce a 
+partir del fuego, el agua y lo que es afín a éstos, todas y cada una de estas producciones son cosas, como sabemos, elaboradas por el dios… Vienen luego las imágenes de cada 
+una de estas cosas, no las realidades, producidas mediante un artificio divino… Las de los 
+sueños y todas las ilusiones que, durante el día, se producen, como suele decirse, espon-
+táneamente: tanto la sombra que surge de la oscuridad por obra del fuego como ese doble 
+que se aparece cuando la luz propia y la ajena –que proviene de cosas brillantes y lisas–, 
+confluyendo en un mismo punto, origina una forma que produce una sensación inversa a 
+la que nos tenía acostumbrados la visión anterior… Éstas son, entonces, las dos obras de la 
+producción divina: la cosa misma y la imagen que acompaña a cada cosa… ¿Y qué ocurre con la técnica que nos concierne? ¿No diremos que la arquitectura hace la casa misma 
+y que la pintura hace otra casa, que es como un sueño de origen humano elaborado para 
+quienes están despiertos?... Así, entonces, como en los otros casos, también son dobles 
+las obras de nuestra producción, pues llamamos producción de cosas a la que hace cosas y técnica de hacer imágenes a la que produce imágenes… Recordemos que la técnica 
+de la fabricación de imágenes iba a tener, como un género, la figurativa, y como otro, la 
+simulativa, si es que lo falso era realmente falso y parecía ser naturalmente algo que es.
+26 
+Si todas las formas productivas son de origen divino y tienen una versión humana, derivada, 
+imitativa, sólo la simulación  es específica de los hombres. Los dioses no simulan, éste es un prin -
+cipio teológico fundamental (los dioses no son responsables del mal en el mundo). Los hombres que simulan, precisamente, son aquellos que Platón considera perniciosos para la comunidad 
+(sofistas y poetas). V olvamos a pensar lo dicho en la República a la luz de este texto. 
+Según argumenta Cacciari, en la  República  Platón acusa a los poetas de ser miméticos 
+precisamente porque no lo son, esto es, porque sus productos no son figurativos o icónicos, 
+porque, en lugar de limitarse a imitar, introducen una diferencia en el seno de la realidad, que 
+no se acomoda fácilmente a la identidad de lo múltiple que hace remitir las cosas a las Ideas.
+27 
+Decir “copia de una copia” resulta de un esfuerzo vano, dice Cacciari, por mantener esta 
+primacía de la dependencia ontológica que las alegorías platónicas explicitan: la copia es a la 
+cosa visible lo que ésta es a la Idea, según lo cual el simulacro quedaría enlazado a una realidad 
+superior, que le participaría su ser (el reflejo de una casa, copia de una casa visible, copia de un modelo inteligible, que es “la casa en sí misma”). Téngase en cuenta la siguiente modificación: 
+en República se recurre al ejemplo del espejo para pensar la mímesis poética, en el Sofista ya 
+se ha declarado la irreductibilidad de ambos tipos de mímesis (precisamente porque el espejo es 
+figurativo y el simulacro no lo es). Los reflejos no engañan a nadie. Conceptualmente no ofrecen 
+ningún conflicto filosófico serio en cuanto al estatuto subordinado y dependiente de su realidad. 
+Los simulacros, en cambio, son más difusos. Por ejemplo: un reflejo en el agua es propiciado 
+por un cuerpo más o menos semejante (el carácter “figurativo” del reflejo es proporcional a esa 
+semejanza), pero una simulación ¿ofrece acaso esa referencia a una realidad a la que quedaría 
+subordinada? Evidentemente no. El simulacro es del orden del disfraz. 
+26. Platón, Sofista, 265c-266d.
+27. M. Cacciari: El dios que baila, Buenos Aires, Paidós, 2000, p. 24.
+Relecturas.indd   32 02/11/2012   13:41:19introducción
+33A veces Platón da ejemplos sencillos de lo que entiende por simulación: 
+Del mismo modo que, como digo, la adulación culinaria se oculta dentro de la medicina, 
+así el campo de la gimnástica es invadido por la cosmética, procedimiento pernicioso, engañoso, innoble, impropio de hombres libres, que produce una impresión ilusoria mer-ced a los vestidos y a los colores, a los afeites y a las formas, y hace que, descuidando la belleza real y natural que se adquiere por medio de la gimnasia, se busque una belleza prestada y mentirosa.
+28
+¿Es 
+de la misma índole la relación que existe, por ejemplo, entre un plato de sopa y una pin-
+tura de un plato de sopa que aquella que existe entre un plato de sopa y un plato de veneno que por la efectividad culinaria (la sal, las especias) tiene gusto a sopa? Una persona fea reflejada en un espejo sigue siendo fea, pero la misma persona tratada cosméticamente ¿sigue siendo fea? ¿Algo es bello y feo al mismo tiempo? ¿Algo es alimento y veneno? La posibilidad de identificar conceptualmente las cosas, de predicar los caracteres de una Idea, es acechada por la contradicción, por la diferencia. Dice Gilles Deleuze: “La copia es una imagen dotada de semejanza; el simulacro, una imagen sin semejanza. El catecismo, tan inspirado en el platonis-mo, nos ha familiarizado con esta noción: Dios hizo al hombre a su imagen y semejanza, pero, por el pecado, el hombre perdió la semejanza, conservando sin embargo la imagen. Nos hemos convertido en simulacro... La observación del catecismo tiene la ventaja de poner el acento en el carácter demoníaco del simulacro”.
+29 Lo “demoníaco”, en el catecismo cristiano, expresa el 
+motivo por el cual el hombre se ha separado de Dios. Mediante esta analogía nos dice Deleuze que el “simulacro” se ha separado del Bien, es decir que ha roto su vínculo ontológico con el Fundamento y ha perdido su “semejanza”, no puede ser pensado por una Idea. Si el Estado está bien fundado, está fundado en el Bien. Pero los simulacros están separados del Bien. Luego, sólo mediante su exclusión una ciudad puede estar enteramente vinculada con el Bien: “Esto es lo que quería decir como disculpa, al retornar a la poesía, por haberla desterrado del Estado, por ser ella de la índole que es: la razón nos lo ha exigido”. La filosofía y la poesía no pueden convivir en el mismo Estado, como lo racional y lo irracional, cada una es la negación de la otra.
+30 
+28. Platón, Gorgias, 465b.
+29. G. Deleuze: 
+Lógica del sentido, Buenos Aires, Paidós, 1994, p. 259.
+30. Platón, República, 607b.
+Relecturas.indd   33 02/11/2012   13:41:19Relecturas.indd   34 02/11/2012   13:41:19República
+Alegoría del Sol (República, 505a-509b) 
+—Con frecuencia me has escuchado decir que la Idea del Bien es el objeto del estudio su-
+premo, a partir del cual las cosas justas y todas las demás se vuelven útiles y valiosas. Y bien 
+sabes que estoy por hablar de ello y, además, que no lo conocemos suficientemente. Pero también 
+sabes que, si no lo conocemos, por más que conociéramos todas las demás cosas, sin aquello 
+nada nos sería de valor, así como si poseemos algo sin el Bien. ¿O crees que da ventaja poseer 
+cualquier cosa si no es buena, y comprender todas las demás cosas sin el Bien y sin comprender 
+nada bello y bueno? 
+—¡Por Zeus que me parece que no! —En todo caso sabes que a la mayoría le parece que el Bien es el placer, mientras a los más 
+exquisitos la inteligencia. 
+—Sin duda.
+—Y , además, querido amigo, los que piensan esto último no pueden mostrar qué clase de 
+inteligencia, y se ven forzados a terminar por decir que es la inteligencia del bien. 
+—Cierto, y resulta ridículo.
+—Claro, sobre todo si nos reprochan que no conocemos el bien y hablan como si a su vez 
+lo supiesen, pues dicen que es la inteligencia del bien, como si comprendiéramos qué quieren decir cuando pronuncian la palabra “bien”.
+—Es muy verdad.—¿Y los que definen el bien como placer? ¿Acaso incurren menos en error que los otros? 
+¿No se ven forzados a reconocer que hay placeres malos?
+—Es forzoso.
+—Pero en ese caso, pienso, les sucede que deben reconocer que las mismas cosas son buenas 
+y malas. ¿No es así?
+—Sí.—También es manifiesto que hay muchas y grandes disputas en torno a esto. i.ii s elección  de textos
+anotada por Nicolás Fernández Muriano
+Relecturas.indd   35 02/11/2012   13:41:19i. P latón , entre  lo visible  y lo Pensable
+36—Sin duda.
+—Ahora bien, es patente que, respecto de las cosas justas y bellas, muchos se atienen a las 
+apariencias y, aunque no sean justas ni bellas, actúan y las adquieren como si lo fueran; respecto 
+de las cosas buenas, en cambio, nadie se conforma con poseer apariencias, sino que buscan cosas 
+reales y rechazan las que sólo parecen buenas. 
+—Así es. —Veamos. Lo que toda alma persigue y por lo cual hace todo, adivinando que existe, pero 
+sumida en dificultades frente a eso y sin poder captar suficientemente qué es, ni recurrir a una sólida creencia como sucede respecto de otras cosas —que es lo que hace perder lo que puede 
+haber en ellas de ventajoso—; algo de esta índole y magnitud, ¿diremos que debe permanecer en tinieblas para aquellos que son los mejores en el Estado y con los cuales hemos de llevar a 
+cabo nuestros intentos?
+—Ni en lo más mínimo.—Pienso, en todo caso, que, si se desconoce en qué sentido las cosas justas y bellas del Estado 
+son buenas, no sirve de mucho tener un guardián que ignore esto en ellas; y presiento que nadie 
+conocerá adecuadamente las cosas justas y bellas antes de conocer en qué sentido son buenas.
+—Presientes bien.—Pues entonces nuestro Estado estará perfectamente organizado si el guardián que lo vigila 
+es alguien que posee el conocimiento de estas cosas.
+—Forzosamente. Pero tú, Sócrates, ¿qué dices que es el bien? ¿Ciencia, placer o alguna otra 
+cosa? 
+—¡Hombre! Ya veo bien claro que no te contentarás con lo que opinen otros acerca de esto.
+—Es que no me parece correcto, Sócrates, que haya que atenerse a las opiniones de otros y 
+no a las de uno, tras haberse ocupado tanto tiempo de esas cosas. 
+—Pero ¿es que acaso te parece correcto decir acerca de ellas, como si se supiese, algo que 
+no se sabe?
+—Como si se supiera, de ningún modo, pero sí como quien está dispuesto a exponer, como 
+su pensamiento, aquello que piensa.
+—Pues bien —dije—. ¿No percibes que las opiniones sin ciencia son lamentables? En el 
+mejor de los casos, ciegas. ¿O te parece que los ciegos que hacen correctamente su camino se diferencian en algo de los que tienen opiniones verdaderas sin inteligencia?
+—En nada.—¿Quieres acaso contemplar cosas lamentables, ciegas y tortuosas, en lugar de oír otras 
+claras y bellas? 
+—¡Por Zeus! —exclamó Glaucón—. No te retires, Sócrates, como si ya estuvieras al final. 
+Pues nosotros estaremos satisfechos si, del modo en que discurriste acerca de la justicia, la mo-
+deración y lo demás, así discurres acerca del bien. 
+—Por mi parte, yo también estaré más que satisfecho. Pero me temo que no sea capaz y que, 
+por entusiasmarme, me desacredite y haga el ridículo. Pero dejemos por ahora, dichosos amigos, 
+lo que es en sí mismo el Bien; pues me parece demasiado como para que el presente impulso 
+permita en este momento alcanzar lo que juzgo de él. En cuanto a lo que parece un vástago del 
+Relecturas.indd   36 02/11/2012   13:41:19selección  de textos
+37Bien y lo que más se le asemeja, en cambio, estoy dispuesto a hablar, si os place a vosotros; si 
+no, dejamos la cuestión.31 
+—Habla, entonces, y nos debes para otra oportunidad el relato acerca del padre. —Ojalá que yo pueda pagarlo y vosotros recibirlo; y no sólo los intereses, como ahora; por 
+ahora recibid esta criatura y vástago del Bien en sí. Cuidaos que no os engañe involuntariamente de algún modo, rindiéndoos cuenta fraudulenta del interés.
+—Nos cuidaremos cuanto podamos; pero tú limítate a habar.—Para eso debo estar de acuerdo con vosotros y recordaros lo que he dicho antes y a menudo 
+hemos hablado en otras oportunidades. 
+—¿Sobre qué? —Que hay muchas cosas bellas, muchas buenas, y así, con cada multiplicidad, decimos que 
+existe y la distinguimos con el lenguaje. 
+—Lo decimos, en efecto. —También afirmamos que hay algo Bello en sí y Bueno en sí y, análogamente, respecto de 
+todas aquellas cosas que postulábamos como múltiples; a la inversa, a su vez postulamos cada multiplicidad como siendo una unidad, de acuerdo con una Idea única, y denominamos a cada una “lo que es”. 
+—Así es. —Y de aquellas cosas decimos que son vistas pero no pensadas, mientras que, por su parte, 
+las Ideas son pensadas, mas no vistas.
+32 
+31. La Idea de Bien es el objeto de estudio supremo (y habrá que decir que es el ser supremo.) Aquello a
+partir 
+de lo cual todo lo demás se vuelve valioso y útil, dice Sócrates, aunque sostiene en lo inmediato que no 
+lo conocemos suficientemente. Esa insuficiencia repercute sobre todo lo demás: nada de lo que conocemos o 
+poseemos vale o es bueno por sí mismo (el Bien es la fuente de valor de lo bueno). Pero el uso de un lenguaje práctico (utilidad, ventaja, posesión) tiene aquí un sentido polémico: contra los que consideran bueno aquello 
+que es útil o ventajoso en sentido lato. Riquezas y placeres, fama, aun la inteligencia: ni son buenas por sí mismas ni son un bien en sí mismo. La definición del Bien no es políticamente neutral, pone en juego los modos de vivir de los ciudadanos, considerando que cada uno en particular y la ciudad en general buscan lo que es bueno para sí mismos. Pero ¿qué es el Bien? La pregunta se impone. Para adelantarnos un poco en la concepción política de nuestro autor, consideremos que todos aquellos modos de definir el Bien que se critican son privativos, individuales, acarrean conflictos y divisiones. La inteligencia es inducida por el mero afán de protagonismo; la riqueza, como dice Platón literalmente, divide la ciudad en dos ciudades (la de los ricos y los pobres) en una guerra civil latente; el placer trae consecuencias nefastas desde el punto de vista médico, moral y político. Ahora bien, en términos políticos clásicos (y la República es, quizás, el texto clásico por excelencia), 
+el bien es el Bien Común. Pero lo que es común ningún particular lo posee individualmente, y aun la noción de 
+“posesión” le es aplicable de un modo muy problemático. De ahí el siguiente problema: si el Bien es común, ¿cómo es posible que las cosas particulares de algún modo participen de él sin que éste se parta (como sería el caso de dividir la riqueza entre muchos: de riqueza pasaría a ser pobreza)? Es preciso conocer qué es el Bien y 
+en qué sentido es común, por tanto, para poder determinar qué cosas pueden llamarse buenas. Notemos el giro 
+intelectualista que impone Platón, por mucho que no identifique el Bien con la inteligencia: es preciso conocer 
+el Bien para saber lo que es bueno. Serán la intelección y el conocimiento los que volverán objetivamente útiles y ventajosas todas las actividades y posesiones humanas. No obstante, la dificultad de esta empresa fundamental exige tomar un camino indirecto. Así nos propone Platón un recorrido alegórico (allegouréo: decir 
+las cosas de otro modo) para pensar el Bien a partir de nociones más accesibles. 32. En los párrafos anteriores, Sócrates hace un recuento esquemático de los principales elementos de la
+Relecturas.indd   37 02/11/2012   13:41:19i. P latón , entre  lo visible  y lo Pensable
+38—Indudablemente.
+—Ahora bien, ¿por medio de qué vemos las cosas visibles? —Por medio de la vista. 
+—En efecto, y por medio del oído las audibles, y por medio de las demás percepciones todas 
+las cosas perceptibles. ¿No es así?
+—Sí. 
+—Pues bien, ¿has advertido que el artesano de las percepciones modeló mucho más perfec-
+tamente la facultad de ver y de ser visto? 
+—En realidad, no. 
+—Examina lo siguiente: ¿hay algo de otro género que el oído necesita para oír y la voz para 
+ser oída, de modo que, si este tercer género no se hace presente, uno no oirá y la otra no se oirá? 
+—No, nada. —Tampoco necesitan de algo de esa índole muchos otros poderes, pienso, por no decir nin-
+guno. ¿O puedes decir alguno? 
+—No, por cierto. —Pero, al poder de ver y de ser visto, ¿no piensas que le falta algo? 
+—¿Qué cosa? 
+—Si la vista está presente en los ojos y lista para que se use de ella, y el color está presente 
+en los objetos, pero no se añade un tercer género que hay por naturaleza específicamente para ello, bien sabes que la vista no verá nada y los colores serán invisibles. 
+—¿A qué te refieres? —A lo que tú llamas “luz”. 
+—Dices la verdad. 
+—Por consiguiente, el sentido de la vista y el poder de ser visto se hallan ligados por un 
+vínculo de una especie nada pequeña, de mayor estima que las demás ligazones de los sentidos, salvo que la luz no sea estimable. 
+—Está muy lejos de no ser estimable. —Pues bien, ¿a cuál de los dioses que hay en el cielo atribuyes la autoría de aquello por lo 
+cual la luz hace que la vista vea y que las más hermosas cosas visibles sean vistas? 
+—Al mismo que tú y que cualquiera de los demás, ya que es evidente que preguntas por el sol. 
+—Y la vista, ¿no es por naturaleza en relación con este dios lo siguiente? 
+—¿Cómo? 
+—Ni la vista misma ni aquello en lo cual se produce –lo que llamamos “ojo”– son el sol. 
+—Claro que no. 
+doctrina de las ideas. En términos generales distingue un ámbito de seres inteligibles (Ideas) y otro de seres 
+visibles (las cosas múltiples). Las Ideas se piensan, las cosas se ven. De este modo, si podemos pensar en las cosas que vemos, es por intermedio de las Ideas. Las cosas que vemos no se piensan por sí mismas, pero están 
+vinculadas realmente con las Ideas, lo que nos permite pensar en éstas los rasgos que encontramos en aquéllas. La distinción platónica es tajante y, en cierto modo, definitiva: sólo se piensa lo que es pensable, lo que tiene la forma del pensamiento. Lo que vemos, la imagen, no es pensable. Dicho de un modo más polémico: el objeto del pensamiento es un ser pensable, lo mismo que el objeto de la mirada es un ser visible. Las Ideas son siempre 
+idénticas a sí mismas y por ello pensamos siempre lo mismo, las cosas visibles cambian y difieren. De este 
+modo, sólo poseen los caracteres de la Idea de un modo derivado e imperfecto. 
+Relecturas.indd   38 02/11/2012   13:41:19selección  de textos
+39—Pero es el más afín al sol, pienso, de los órganos que conciernen a los sentidos. 
+—Con mucho. —Y la facultad que posee, ¿no es algo así como un fluido que le es dispensado por el sol? 
+—Ciertamente. 
+—En tal caso, el sol no es la vista pero, al ser su causa, es visto por ella misma.
+33 
+—Así es. 
+—Entonces ya podéis decir qué entendía yo por el vástago del Bien, al que el Bien ha en-
+gendrado análogo a sí mismo. De este modo, lo que en el ámbito inteligible es el Bien respecto de la inteligencia y de lo que se intelige, esto es el sol en el ámbito visible respecto de la vista y de lo que se ve.
+—¿Cómo? Explícate. —Bien sabes que los ojos, cuando se los vuelve sobre objetos cuyos colores no están ya ilu-
+minados por la luz del día sino por el resplandor de la luna, ven débilmente, como si no tuvieran claridad en la vista. 
+—Efectivamente.—Pero cuando el sol brilla sobre ellos, ven nítidamente, y parece como si estos mismos ojos 
+tuvieran la claridad. 
+—Sin duda. —Del mismo modo piensa así en lo que corresponde al alma: cuando fija su mirada en 
+objetos sobre los cuales brillan la verdad (alétheia) y el ser (tò ón), intelige, conoce y parece tener inteligencia (noûs); pero cuando se vuelve hacia lo sumergido en la oscuridad, que nace y 
+perece, entonces opina y percibe débilmente con opiniones que la hacen ir de aquí para allá, y 
+da la impresión de no tener inteligencia.
+—Eso parece, en efecto. 
+33. Es preciso distinguir varios elementos. En primer lugar, la primacía de la visión en relación con los demás 
+sentidos en la historia del pensamiento griego en particular y occidental en general: iluminación, claridad, evidencia, discernimiento… el idioma del pensamiento está contaminado de figuras ópticas y lumínicas (de 
+manera extrema: “ser visible” es una sinécdoque de “ser sensible” en general, difícilmente un clásico nos hable de “seres tangibles o audibles”). En segundo lugar, el modo en que esta primacía óptica pasará a servir de modelo a partir del cual se piensa la intelección y se la opone a la visión, desvalorada en la comparación (las tres alegorías que aquí se presentan tan sólo son posibles por este medio: hacer explícito lo invisible por 
+lo visible). Este movimiento es fundamental. Tomemos un caso ejemplar: el término “Idea” en el léxico griego 
+corriente significa “figura, figura visible” (por ejemplo, un hombre de bella figura), y ocurrirá una verdadera apropiación filosófica de este término, que pasará a significar lo que no es visible, lo pensable. Vale la pena reflexionar aquí sobre el forzamiento que la filosofía debe imponer a las palabras para llevarlas a decir algo impensado hasta entonces para lo cual no existían medios. Consideremos lo que decíamos en la introducción: 
+Platón afirma que el lenguaje nos inclina naturalmente hacia el señalamiento de lo que cambia y se ve, pero el 
+pensamiento debe volverse hacia lo permanente e invisible. ¿Cómo se abrirá paso a través de las palabras, si no en cierto modo torciéndolas contra su propia inclinación? En tercer lugar, el desplazamiento de esquemas ópticos para determinar el pensamiento frente a lo visible, se afirma en una diferenciación al interior de lo 
+visible: así lo visible es la copia, lo pensable lo original, o bien, lo visible es la sombra de lo inteligible, etc. 
+La relación de dependencia que lo visible permite discernir entre una cosa y su sombra, entre un original y su 
+copia, sirve a Platón para determinar la primera gran diferenciación de su pensamiento: la primacía ontológica de la Idea respecto de las cosas visibles, que dependen de aquélla para ser y para ser pensadas (dependencia ontológica y gnoseológica). 
+Relecturas.indd   39 02/11/2012   13:41:19i. P latón , entre  lo visible  y lo Pensable
+40—Entonces lo que aporta la verdad a las cosas cognoscibles y otorga al que conoce el poder 
+de conocer puedes decir que es la Idea del Bien. Y por ser causa de la ciencia y de la verdad, 
+concíbela como cognoscible; y aun siendo bellos tanto el conocimiento como la verdad, si estimamos correctamente el asunto, tendremos a la Idea del Bien por algo distinto y más bello que ellas. Y así como dijimos que era correcto tomar a la luz y a la vista por afines al sol pero que sería erróneo creer que son el sol, análogamente ahora es correcto pensar que ambas cosas, la verdad y la ciencia, son afines al Bien, pero sería equivocado creer que una u otra fueran el Bien, ya que la condición del Bien es mucho más digna de estima.
+34 
+—Hablas de una belleza extraordinaria, puesto que produce la ciencia y la verdad, y además 
+está por encima de ellas en cuanto a hermosura. Sin duda, no te refieres al placer. 
+—¡Dios nos libre! Más bien prosigue examinando nuestra comparación (eikón). —¿De qué modo? —Pienso que puedes decir que el sol no sólo aporta a lo que se ve la propiedad de ser visto, 
+sino también la génesis, el crecimiento y la nutrición, sin ser él mismo génesis. 
+—Claro que no. 
+34. Los términos de la alegoría están así determinados: como el sol es a lo visible (la fuente de visibilidad),
+el 
+Bien es a lo inteligible (la fuente de intelección). Empieza a aclararse aquí lo que Platón entiende por 
+“Bien”. Es la luz de lo inteligible, lo que hace posible la inteligencia de las cosas inteligibles y por lo tanto el conocimiento y la verdad. Como se ve, la correspondencia estructural entre lo óptico y el pensamiento llega muy lejos. No se limita a enunciar la relación: para la visión existe lo visible/para la intelección, lo inteligible. Ya que a su vez permite pensar el nexo, el “medio fluido”, entre el ojo y lo que se ve, como siendo por sí mismo algo de una naturaleza especial: luz. Lo que hace ver o es causa del encuentro de la visión y lo visible tendrá en el ámbito inteligible su correspondencia estructural. Como el sol emana la luz, el Bien es este principio o causa de la verdad, irreductible a la inteligencia y a lo inteligible (porque la verdad es el encuentro de ambos). Pero la correspondencia llega más lejos todavía. Si decimos que hay un ámbito visible, que es uno, a pesar de las variadas cosas visibles, éste queda unificado por la visibilidad. La luz es común a lo que se ve: una luz, la misma, para muchas cosas, que tienen en común: ser visibles. Un perro, un gato, un árbol, son seres visibles sin dejar de ser vistos como perro, gato o árbol (al contrario: son visibles como tales por el mismo principio, mientras que de noche las diferencias se borran). De igual modo habrá que pensar el Bien no sólo como el medio o nexo entre la inteligencia y lo inteligible, sino también como lo que establece la comunicación entre las cosas inteligibles entre sí, de modo que haya un ámbito unificado para todas ellas. En este sentido, cada una de ellas es pensable por sí misma en su verdad (como lo Bello, lo Justo, etc.), pero todas ellas están comunicadas por un mismo principio que las hace pensables en general. El Bien en sí es el fundamento de inteligibilidad de lo inteligible en particular (permite identificar cada Idea), pero, sobre todo, unifica y articula la totalidad de lo inteligible, haciendo así posible la ciencia. Pues sólo hay ciencia si la inteligencia puede conocer de un modo articulado las cosas inteligibles, así como la visión no se reduce a ver una sola cosa, sino que consiste en la integridad del ámbito visible. Si pensar algo supone el encuentro de la inteligencia y eso que se piensa, la ciencia supone la comunicación de lo inteligible con lo inteligible para la inteligencia. No sólo la inteligencia piensa por el Bien, sino que se constituye en ciencia afirmándose en este principio. No es poco decir que el Bien de cada cosa radica en su capacidad de ser pensadas y conocidas en su verdad y el Bien Común, en la articulación racional de la realidad. Esto sólo un filósofo lo diría. Buscábamos conocer el Bien Común y nos encontramos con que el Bien es lo que comunica lo inteligible con lo inteligible, es decir, lo que constituye el ámbito común de los seres inteligibles. Hay Bien porque es posible la verdad para la inteligencia. La inteligencia no es buena por sí misma, sino en tanto accede a la verdad. Las cosas no son buenas por sí mismas, sino en cuanto están constituidas de un modo inteligible. 
+Relecturas.indd   40 02/11/2012   13:41:19selección  de textos
+41—Y así dirás que a las cosas cognoscibles les viene del Bien no sólo el ser conocidas, sino 
+también de él les llega el ser (tò eînai) y la esencia (ousía), aunque el Bien no sea esencia, sino 
+algo que se eleva más allá de la esencia en cuanto a dignidad y a potencia.35 
+35. Que las cosas visibles son visibles por el sol significa así dos cosas: no sólo el carácter de visibles les viene 
+de la luz, sino también su carácter de ser (tener génesis, nacer, devenir). Hay una simetría estricta entre el ser 
+de lo visible y ser-visible: el mismo principio que las hace visibles las hace ser (lo que permite situarlas en un 
+mismo ámbito de realidad). Lo mismo deberá decirse del ámbito de las esencias: la Idea tiene su ser esencial 
+no menos que su inteligibilidad a partir de la misma fuente: el Bien. Por eso hace posible pensar y conocer, porque es aquello que hay de pensable en cada ser, aquello que brilla para la inteligencia, es decir, la identidad. Identidad se opone a génesis; de este modo, si el sol es fuente de génesis, el Bien es fuente de identidad. Vemos 
+lo que tiene génesis, pensamos lo que tiene identidad. Para la Idea, como quería Parménides para el ser, debe 
+valer el siguiente principio: “Es lo mismo para pensar y para ser”. Ahora bien, de aquí no debe concluirse que 
+haya sólo un ser que es inteligible. El Bien es el fundamento por el cual cada una de las Ideas es un ser inteligible por sí mismo. Pero el Bien no se confunde con la esencia que hace posible, como el sol no se confunde con la génesis que hace posible. La cosa es visible, no es luz. La Idea es buena (inteligible), no es el Bien (fuente de 
+inteligibilidad.) Es buena porque puede ser pensada en la identidad de su ser. De este modo, el Bien está presente 
+en cada Idea de modo absoluto. Lo Bello en sí es absolutamente bueno en cuanto es absolutamente bello, es el bien máximo al que se puede aspirar en cuanto a belleza concierne. Vale así como modelo. Es la identidad de la belleza, como hay la identidad de la justicia. El principio es el mismo, es común (la identidad), para las Ideas 
+distintas. Lo que está en juego es la unidad de lo real y hasta qué punto esta unidad de lo real puede “lastrar” la 
+multiplicidad, en este caso, de las Ideas. ¿Hay una sola realidad para las muchas cosas? Hay una totalidad de lo que es, así es una cierta unidad: unidad de lo múltiple. Cada Idea unifica una multitud de cosas sensibles. Pero hay muchas Ideas, lo que exige un principio único que explique lo que todas ellas tienen en común. Esto común, el Bien, no puede ser la esencia de las cosas inteligibles. Si lo fuera, las Ideas no serían seres esenciales. El Bien 
+sería como una Idea de Idea, la esencia de las Ideas, que sustraería la identidad de las diferentes Ideas. Si a esto 
+lo llevamos al extremo, habríamos de concluir en que lo que es común a cada Idea es como tal el hecho de Ser. Pero entonces tan sólo el ser sería pensable. Los términos universales perderían su respaldo ontológico (si la 
+esencia de lo real es ser, entonces “ser justo” no es esencial). Es el problema de Parménides que Platón intenta 
+resolver. Acaso pagando el precio del lenguaje alegórico que utiliza. ¿Este principio que permite pensar “lo 
+que es”, a su vez, “es”? ¿La fuente de unidad es uno? Platón parece concluir afirmativamente en este diálogo. Necesita afirmar la realidad suprema de aquello que permite pensar la realidad. En el Parménides, Platón 
+discutirá fuertemente la posibilidad de que este principio unificante sea, a su vez, un ser que subsiste por sí 
+mismo. Aquí se dice que es en un sentido eminente (“se eleva más allá de la esencia”) y en un sentido negativo 
+(“no es una esencia”): dos tendencias que la tradición neoplatónica llevará al extremo. El “ser supremo” se hace difícil de nombrar, según declaraba Sócrates al principio de la alegoría. El problema sigue siendo éste: si lo múltiple es uno, si lo real constituye un todo, entonces puede ser pensado, a partir de un principio común. En la unificación o totalización, una filosofía clásica se juega su última carta. Es la piedra fundamental, en sentido 
+arquitectónico, el fundamento: si no el edificio se desploma, como una multitud dispersa de escombros y no 
+como la unidad orgánica de lo múltiple. Lo mínimo que podemos concluir es que “lo que es” se dice en tres sentidos distintos: 1) de las cosas visibles, que son el máximo de multiplicidad y de irracionalidad, 2) de las Ideas, cuya multiplicidad ya ha encogido, en cada una, una multiplicad de cosas visibles, 3) del Bien Común, que fundamenta la unidad de lo real. No se dice del Bien que es en el mismo sentido que de la Idea. Hay, por lo 
+menos, tres modos de ser. De la cosa visible se dice que es un ser relacional, semejante a una Idea. De la Idea 
+se dice que es un ser en sí, idéntico. Del Bien se dice que es de un modo, por lo menos, problemático: “no es 
+una esencia”, “se eleva más allá de la esencia”. Si prestamos atención: se dice que es en un sentido eminente 
+(“se eleva más allá”) y en un sentido negativo (“no es una esencia”). La tradición neoplatónica seguirá estos 
+dos caminos para poder pensar este fundamento, real pero más que real y por lo tanto distinto. Un supra-ser 
+o un no-ser. Citemos un caso que habla por sí mismo: “Trinidad supraesencial, supradivina, suprabuena, que 
+Relecturas.indd   41 02/11/2012   13:41:19i. P latón , entre  lo visible  y lo Pensable
+42Y Glaucón se echó a reír: 
+—¡Por Apolo!, exclamó. ¡Qué elevación demoníaca! —Tú eres culpable –repliqué–, pues me has forzado a decir lo que pensaba sobre ello. 
+Alegoría de la línea (República, 509d-511e) 
+—Piensa entonces, como decíamos, cuáles son los dos que reinan: uno, el del género y ámbito 
+inteligibles; otro, el del visible... ¿Captas estas dos especies, la visible y la inteligible? 
+—Las capto. —Toma ahora una línea dividida en dos partes desiguales; divide nuevamente cada sección 
+según la misma proporción, la del género de lo que se ve y otra la del que se intelige, y tendrás distinta oscuridad y claridad relativas; así tenemos primeramente, en el género de lo que se ve, una sección de imágenes. Llamo “imágenes” en primer lugar a las sombras, luego a los reflejos en el agua y en todas las superficies que, por su constitución, son densas, lisas y brillantes, y a todo lo de esa índole. ¿Te das cuenta? 
+—Me doy cuenta. —Pon ahora la otra sección de la que ésta ofrece imágenes, a la que corresponden los ani-
+males que viven en nuestro derredor, así como todo lo que crece, y también el género íntegro de cosas fabricadas por el hombre. 
+—Pongámoslo. —¿Estás dispuesto a declarar que la línea ha quedado dividida, en cuanto a su verdad y no 
+verdad, de modo tal que lo opinable es a lo cognoscible como la copia es a aquello de lo que es copiado?
+36 
+orientas la Sabiduría de los cristianos acerca de lo divino, condúcenos a la cima más alta, supraincognoscible 
+y supraluminosa… donde lo suprarresplandeciente se supramanifiesta… es preciso establecer y afirmar sobre ella –en tanto es causa de todo– todas las posiciones de los seres, pero, mejor aún, es preciso negarlas a todas –en tanto planea más allá de todo–, y no considerar que las negaciones son contrarias a las afirmaciones, sinoque ella misma, que está más allá de toda ablación y de toda posición, está más allá de las privaciones”, Pseudo-Dionisios, Sobre la teología mística, 997a. La respuesta irónica de Glaucón a Sócrates vale por anticipado para 
+toda la tradición neoplatónica y mística que funda: “¡Por Apolo! ¡Qué elevación demoníaca!”. 36. A partir del mismo esquema alegórico de articulación, Platón realiza un giro epistemológico, es decir quepasa concentrarse en el tipo de acceso cognoscitivo que tenemos a cada tipo de realidad. Son como “grados de saber”: conocemos los seres inteligibles, tan sólo opinamos acerca de los seres visibles. Ésta es la primera gran división de la línea y nos permitirá decir que sólo hay verdad de aquello de lo que tenemos conocimiento, pero la mera opinión no implica verdad. No niega Platón con esto que pueda haber una “opinión verdadera”. Pero en todo caso la opinión verdadera se determina en su verdad por algo que ella no posee, a saber, el conocimiento que podrá determinar si una opinión es verdadera o no. La división epistemológica central es pues: conocimiento o ciencia (episteme) y opinión (doxa). Hay opinión de los seres visibles; ciencia de los seres inteligibles. Se ve, entonces, que es sobre la “naturaleza” del objeto que se funda el tipo de acceso cognoscitivo. En otras palabras: no se trata de que algunos opinan y otros conocen los mismos objetos, por ejemplo, las plantas. De las plantas que vemos sólo es posible opinar. De los seres inteligibles es posible el conocimiento. Si hay un giro epistemológico, pues, éste se funda en las clases de seres que concibe Platón. Hay una ontología y, a partir de ella, una epistemología. Así, el mundo visible se divide en dos: sombras-reflejos y cosas naturales o artificiales; si de todos ellos sólo hay mera opinión, como mostrará más abajo, de los primeros la opinión esconjetural (del reflejo de una planta conjeturamos que es el reflejo de una planta), en cambio creemos que una 
+Relecturas.indd   42 02/11/2012   13:41:19selección  de textos
+43—Estoy muy dispuesto. 
+—Ahora examina si no hay que dividir también la sección de lo inteligible. —¿De qué modo? 
+—De éste. Por un lado, en la primera parte de ella, el alma, sirviéndose de las cosas antes 
+imitadas como si fueran imágenes, se ve forzada a indagar a partir de supuestos, marchando no hasta un principio (arkhé) sino hacia una conclusión. Por otro lado, en la segunda parte, avanza 
+hasta un principio no supuesto, partiendo de un supuesto y sin recurrir a imágenes –a diferencia 
+del otro caso–, efectuando el camino con Ideas mismas y por medio de Ideas.
+—No he aprehendido suficientemente esto que dices. —Pues veamos nuevamente; será más fácil que entiendas si te digo esto antes. Creo que sabes 
+que los que se ocupan de geometría y de cálculo suponen lo impar y lo par, las figuras y tres 
+clases de ángulos y cosas afines, según lo que investigan en cada caso. Como si las conocieran, 
+las adoptan como supuestos, y de ahí en adelante no estiman que deban dar cuenta de ellas ni a sí 
+mismos ni a otros, como si fueran evidentes a cualquiera, antes bien, partiendo de ellas atraviesan el resto de modo consecuente, para concluir en aquello que proponían al examen. 
+—Sí, esto lo sé. —Sabes, por consiguiente, que se sirven de figuras visibles y hacen discursos acerca de ellas, 
+aunque no pensando en éstas sino en aquellas cosas a las cuales éstas se parecen, discurriendo en vista al Cuadrado en sí y a la Diagonal en sí, y no en vista de la que dibujan, y así con lo 
+demás. De las cosas mismas que configuran y dibujan hay sombras e imágenes en el agua, y de 
+estas cosas que dibujan se sirven como imágenes, buscando divisar aquellas cosas en sí que no 
+podrían ver de otro modo que con el pensamiento. 
+—Dices verdad. —A esto me refería como la especie inteligible. Pero en ésta su primera sección, el alma se 
+ve forzada a servirse de supuestos en su búsqueda, sin avanzar hacia un principio, por no poder remontarse más allá de los supuestos. Y para eso usa como imágenes a los objetos que abajo 
+eran imitados, y que habían sido conjeturados y estimados como claros respecto de los que eran 
+sus imitaciones. 
+—Comprendo que te refieres a la geometría y a las artes afines. —Comprende entonces la otra sección de lo inteligible, cuando afirmo que en ella la razón 
+misma aprehende, por medio de la facultad dialéctica, y hace de los supuestos no principios sino realmente supuestos, que son como peldaños y trampolines hasta el principio del todo, que es no 
+supuesto, y, tras aferrarse a él, ateniéndose a las cosas que de él dependen, desciende hasta una 
+conclusión, sin servirse para nada de lo sensible, sino de Ideas, a través de Ideas y en dirección 
+a Ideas, hasta concluir en Ideas. 
+—Comprendo, aunque no suficientemente, ya que creo que tienes en mente una tarea enorme: 
+quieres distinguir la sección del ser y de lo inteligible contemplado por la ciencia dialéctica, esta -
+planta es una planta. Pero todavía no la conocemos, pues saber “¿qué es una planta?” exige un conocimiento 
+universal, que sólo es posible a partir de las Ideas. La jerarquía del saber va pareja a la jerarquía de los seres. A partir de esto, la línea dividida nos da un modelo analógico muy sencillo: como A es a B, B es a C. Como la 
+sombra es a la cosa sensible, ésta es a la Idea. Pero también, como la conjetura es a la creencia, la opinión es a 
+la ciencia. Luego, la opinión es a lo visible, como la ciencia a lo inteligible. 
+Relecturas.indd   43 02/11/2012   13:41:19i. P latón , entre  lo visible  y lo Pensable
+44bleciendo que es más claro que lo estudiado por las llamadas “artes”, para las cuales los supuestos 
+son principios. Y los que los estudian se ven forzados a estudiarlos por medio del pensamiento discursivo (diánoia), aunque no por los sentidos. Pero a raíz de no hacer el examen avanzando hacia un principio sino a partir de supuestos, te parece que no poseen inteligencia ( noûs) acerca de 
+ellos, aunque sean inteligibles junto a un principio. Y creo que llamas “pensamiento discursivo” al estado mental de los geómetras y similares, pero no “inteligencia” como si el pensamiento discursivo fuera algo intermedio entre la opinión y la inteligencia.
+37 
+—Entendiste perfectamente. Y ahora aplica a las cuatro secciones estas cuatro afecciones que 
+se generan en el alma; inteligencia (nóesis), a la suprema; pensamiento discursivo (diánoia), a la segunda; a la tercera asigna la creencia (pístis), y a la cuarta la conjetura (eikasía), y ordénalas proporcionadamente, considerando que cuanto más participen de la verdad, tanto más participan de la claridad. 
+—Entiendo, y estoy de acuerdo en ordenarlas como dices. 
+37. Aquí Platón establece una jerarquía netamente epistemológica, al menos a primera vista. En efecto, tanto el
+pensamiento discursivo como el pensamiento dialéctico se dirigen a la misma clase de seres: las Ideas. En este 
+sentido, ambas participan del ámbito epistémico. ¿Por qué entonces se traza esta división y por qué la dialéctica es jerárquicamente superior al pensamiento discursivo, que no posee inteligencia (noûs)? El pensamiento discursivo, como la geometría, por un lado, tiene a las Ideas como supuestos no demostrados, por el otro, utiliza imágenes representativas de aquello en lo que piensa. Lo que le falta por un lado, la demostración puramente intelectual de lo que da por supuesto (el cuadrado en sí, el triángulo en sí), se completa por el otro, con el trazado de la imagen (este cuadrado, este triángulo), para “ayudar” al pensamiento a sacar sus conclusiones. Necesita de la imagen tanto como le falta el fundamento. Esta suerte de pobreza intelectual que permite diferenciar las artes matemáticas de la dialéctica filosófica, sin embargo, no carece de un sentido ontológico, más allá de la diferencia de método. El pensamiento discursivo es como una actividad mixta, a mitad de camino entre la ciencia pura y la opinión (y Platón no dejará de denunciar el uso de terminología pragmática en geometría, en lugar de terminología puramente científica: “cuadrar”, “construir”, “añadir”, República, 511a). Por un lado, 
+se relaciona con seres visibles artificiales. Por el otro, no tiene acceso al fundamento del conocimiento y de la realidad de las Ideas. Como dirá más abajo, este fundamento es el Bien. Cfr. República, 534e. Pero el 
+Bien en sí, como veíamos, es un ser a partir del cual tienen su ser y su identidad las Ideas. De este modo, la diferencia epistemológica se articula aun sobre una diferencia ontológica, por mucho que ambas actividades se dirijan a la misma clase de seres… menos uno: que no es ni más ni menos que el ser supremo. En la alegoría inmediatamente anterior, el Bien emitía la luz de la verdad. Sin ella, el alma no puede “ver” la idea por sí misma. La relación que tiene con la Idea el pensamiento discursivo es, pues, indirecta (sus afirmaciones son meramente condicionales: si es verdadero el supuesto P, entonces Q) y, sobre todo, parcial. No posee la articulación racional del ámbito inteligible, de modo que no puede moverse en el ámbito del puro pensamiento (noûs). Esto la imposibilita de realizar el movimiento de la ciencia dialéctica, que consiste en pasar de Ideas a Ideas a partir de un principio no supuesto, sin recurrir para ello a ninguna imagen. Pero además sin el Bien, ha dicho Platón, todo el conocimiento carece de valor. La ciencia discursiva es tan sólo un peldaño hacia 
+arriba, pero, por sí misma, se detiene y desciende demasiado pronto. Tiene de positivo la dirección hacia lo inteligible (nos muestra cómo lo sensible puede pensarse a partir de lo inteligible, ser racionalizado, medido), es así como un momento necesario pero insuficiente en la educación-elevación del alma. De modo que recibe su valor de otro lado. Ella misma debe articular con un saber superior y estar subordinada a él. Así como todo lo real se subordina al Bien, que unifica o totaliza la realidad y le da su valor, cada actividad humana, incluido el pensamiento discursivo, se someterá a la ciencia dialéctica, que es, como dirá Platón, “sinóptica”: se eleva hasta el fundamento de lo que es (el Bien) y realiza la unificación de los saberes, tanto como la unificación de las actividades humanas en general, en su descenso, que expresa la efectividad política de la filosófica: la filosofía ha de organizar la totalidad de las prácticas en el seno de la ciudad. 
+Relecturas.indd   44 02/11/2012   13:41:20selección  de textos
+45Alegoría de la caverna (República, 514a-520d).
+—Después de esto –proseguí– compara nuestra naturaleza respecto de su educación y su falta 
+de educación con una experiencia como ésta. Represéntate hombres en una morada subterránea en 
+forma de caverna, que tiene la entrada abierta, en toda su extensión, a la luz. En ella están desde 
+niños con las piernas y el cuello encadenados, de modo que deben permanecer allí y mirar sólo 
+delante de ellos, porque las cadenas les impiden girar en derredor la cabeza. Más arriba y más 
+lejos se halla la luz de un fuego que brilla detrás de ellos; y entre el fuego y los prisioneros hay 
+un camino más alto, junto al cual imagínate un tabique construido de lado a lado, como el biombo 
+que los titiriteros levantan delante del público para mostrar, por encima del biombo, los muñecos. 
+—Me lo imagino. —Imagínate ahora que, del otro lado del tabique, pasan sombras que llevan toda clase de 
+utensilios y figurillas de hombres y otros animales, hechos en piedra y madera y de diversas clases; y entre los que pasan unos hablan y otros callan.
+—Extraña comparación haces y extraños son esos prisioneros. —Pero son como nosotros. Pues en primer lugar, ¿crees que han visto de sí mismos, o unos 
+de los otros, otra cosa que las sombras proyectadas por el fuego en la parte de la caverna que tienen frente a sí?
+38 
+—Claro que no, si toda su vida están forzados a no mover las cabezas. 
+—¿Y no sucede lo mismo con los objetos que llevan los que pasan del otro lado del tabique? 
+—Indudablemente. 
+—Pues entonces, si dialogaran entre sí, ¿no te parece que entenderían estar nombrando a los 
+objetos que pasan y que ellos ven? 
+—Necesariamente. 
+—Y si la prisión contara con un eco desde la pared que tienen frente a sí, y algunos de los 
+que pasan del otro lado del tabique hablaran, ¿no piensas que creerían que lo que oyen proviene de la sombra que pasa delante de ellos? 
+38. La compartimentación o estratificación de lo real según los ejes bajo-alto y sombra-luz no señala sólo 
+una situación “epistemológica” de los hombres: permite definirlos en particular y comunitariamente como 
+prisioneros. En Cratilo, 400c, se dice que sôma no significa tan sólo “cuerpo” sino también “celda” y que 
+el cuerpo encadena el alma. Encadenado en un mundo de sombras y apariencias efímeras, esta situación de ignorancia conlleva una dimensión ética y política que la alegoría intenta sacar a relucir. Compárese con lo dicho en República, 586a: “Como si fueran animales, miran siempre para abajo, inclinándose sobre la tierra, 
+y devoran sobre las mesas, comiendo y copulando; y en su codicia por estas cosas se patean y cornean unos a 
+otros con cuernos y pezuñas de hierro, y debido a su voracidad insaciable se matan, dado que no satisfacen con 
+cosas reales la irreal parte de sí mismos que las recibe./ —Como un oráculo, Sócrates –dijo Glaucón–, describes el modo de vida de la mayoría. / —Y es forzoso que los placeres con los cuales viven estén mezclados con penas y que sean como imágenes y pinturas sombreadas del verdadero placer, que toman color al yuxtaponer los unos a las otras, de modo tal que unos y otras parecen intensos, y que dichos placeres procrean en los 
+insensatos amores enloquecedores por los cuales combaten, tal como cuenta Estesícoro que se combatía en 
+Troya por el fantasma de Helena”. La inclinación hacia lo bajo, la primacía del componente animal en el hombre, exacerbado por el carácter de imágenes o sombras de aquellos objetos que toman por bienes, compone un cuadro según el cual la mayoría es como prisionera de aquello que desea. El carácter irreal o falso del objeto 
+opera como un principio de insatisfacción permanente, cuya consecuencia es el exceso y la violencia. 
+Relecturas.indd   45 02/11/2012   13:41:20i. P latón , entre  lo visible  y lo Pensable
+46—¡Por Zeus que sí!
+—¿Y que los prisioneros no tendrían por real otra cosa que las sombras de los objetos arti-
+ficiales transportados? 
+—Es de toda necesidad. —Examina ahora el caso de una liberación de sus cadenas y de una curación de su ignoran-
+cia, qué pasaría si naturalmente les ocurriese esto: que uno de ellos fuera liberado y forzado a levantarse de repente, volver el cuello y marchar mirando a la luz y, al hacer todo esto, sufriera y 
+a causa del encandilamiento fuera incapaz de percibir aquellas cosas cuyas sombras había visto 
+antes. ¿Qué piensas que respondería si se le dijese que lo que había visto antes eran fruslerías y 
+que ahora, en cambio, está más próximo a lo real, vuelto hacia cosas más reales y que mira co-rrectamente? Y si se le mostrara cada uno de los objetos que pasan del otro lado del tabique y se 
+lo obligara a contestar preguntas sobre lo que son, ¿no piensas que se sentirá en dificultades y que 
+considerará que las cosas que antes veía eran más verdaderas que las que se le muestran ahora? 
+—Mucho más verdaderas. 
+—Y si se le forzara a mirar hacia la luz misma, ¿no le dolerían los ojos y trataría de eludirla, 
+volviéndose hacia aquellas cosas que podía percibir, por considerar que éstas son realmente más claras que las que se le muestran? 
+—Así es. —Y si a la fuerza se lo arrastrara por una escarpada y empinada cuesta, sin soltarlo antes 
+de llegar hasta la luz del sol, ¿no sufriría acaso y se irritaría por ser arrastrado y, tras llegar a la luz, tendría los ojos llenos de fulgores que le impedirían ver uno solo de los objetos que ahora 
+decimos que son los verdaderos? 
+—Por cierto, al menos inmediatamente. —Necesitaría acostumbrarse, para poder llegar a mirar las cosas de arriba. En primer lugar 
+miraría con mayor facilidad las sombras, y después las figuras de los hombres y de los otros objetos reflejados en el agua, luego los hombres y los objetos mismos. A continuación contem-
+plaría de noche lo que hay en el cielo y el cielo mismo, mirando la luz de los astros y la luna 
+más fácilmente que, durante el día, el sol y la luz del sol. 
+—Sin duda. —Finalmente, pienso, podría percibir el sol no ya en imágenes en el agua o en otros lugares 
+que le son extraños, sino contemplarlo como es en sí y por sí, en su propio ámbito. 
+—Necesariamente. 
+—Después de lo cual concluiría, con respecto al sol, que es lo que produce las estaciones 
+y los años y que gobierna todo en el ámbito visible y que de algún modo es causa de las cosas que ellos habían visto. 
+—Es evidente que, después de todo esto, arribaría a tales conclusiones. 
+—Y si se acordara de su primera morada, del tipo de sabiduría existente allí y de sus entonces 
+compañeros de cautiverio, ¿no piensas que se sentiría feliz del cambio y que los compadecería? 
+—Por cierto. 
+—Respecto de los honores y elogios que se tributaban unos a otros, y de las recompensas 
+para aquel que con mayor agudeza divisara las sombras de los objetos que pasaban detrás del tabique, y para el que mejor se acordase de cuáles habían desfilado habitualmente antes y cuáles 
+Relecturas.indd   46 02/11/2012   13:41:20selección  de textos
+47después, y para aquel de ellos que fuera capaz de adivinar lo que iba a pasar, ¿te parece que 
+estaría deseoso de todo eso y que envidiaría a los más honrados y poderosos entre aquellos? ¿O más bien no le pasaría como al Aquiles de Homero, y “preferiría ser un labrador que fuera siervo de un hombre pobre” o soportar cualquier otra cosa antes que volver a su anterior modo de opinar y a aquella vida?
+39 
+—Así creo también yo, que padecería cualquier cosa antes que soportar aquella vida. —Piensa ahora esto: si descendiera nuevamente y ocupara su propio asiento, ¿no tendría 
+ofuscados los ojos por las tinieblas, al llegar repentinamente del sol? 
+—Sin duda. —Y si tuviera que discriminar de nuevo aquellas sombras, en ardua competencia con aque-
+llos que han conservado en todo momento las cadenas, y viera confusamente hasta que sus ojos se reacomodaran a ese estado y se acostumbraran en un tiempo nada breve, ¿no se expondría al ridículo y a que se dijera de él que, por haber subido hasta lo alto, se había estropeado los ojos, y que ni siquiera valdría la pena intentar marchar hacia arriba? Y si intentase desatarlos y conducirlos hacia la luz, ¿no lo matarían, si pudieran tenerlo en sus manos y matarlo?
+40 
+39. La inversión de las palabras de Aquiles puede ayudarnos a pensar la transformación espiritual que media
+entre 
+su inscripción en el texto homérico (“no intentes consolarme de la muerte, noble Odiseo. Preferiría estar 
+sobre la tierra y servir en casa de un hombre pobre, aunque no tuviera gran hacienda, que ser soberano y reinar sobre todos los muertos”, Odisea, 11.488-92), que en todo caso expresa el apego a la vida sensible, aun más allá de toda dignidad (mejor esclavo que muerto, pero mejor rey que esclavo), y un pensamiento ético que llega incluso a cuestionarse si esta vida sensible, definida por la falsedad o la distorsión, no es como una muerte de la que es preciso librarse. Considérense las palabras de Sócrates en Apología, 40 c-d: “La muerte es una de estas 
+dos cosas: o bien el que está muerto no es nada ni tiene sensación de nada, o bien, según se dice, la muerte es precisamente una transformación, un cambio de morada para el alma”. En ambos casos, la muerte es un estado preferible a esa “noche” que es la vida. La mera vida sensible es tematizada como algo “carente de valor” (“a mí la muerte, si no resulta un poco rudo decirlo, me importa un bledo”, Apología, 32d), y hemos visto que nada 
+posee valor sin el Bien. Dirigirse al Bien implicará una transformación o liberación, que puede pensarse según dos direcciones: en esta alegoría, como lo que propicia la educación, cuya coronación filosófica nos pone en contacto con el fundamento del valor y, en textos como Fedón, directamente con la muerte, instancia en que las 
+almas dejan los cuerpos y pueden acceder a una intelección directa de las Ideas, sin la mediación del cuerpo. Si la primera opción parece menos radical, téngase en cuenta que “es imposible que el pueblo sea filósofo” y que esta “valoración” de la vida según la relación con el Bien operará como principio de división al interior de la sociedad y así de selección de la jerarquía política: “V osotros, todos cuantos habitáis en el Estado, sois hermanos. Pero el dios que os modeló puso oro en la mezcla con que se generaron cuantos de vosotros son capaces de gobernar, por lo cual son los que más valen; plata, en cambio, en la de los guardias, y hierro y bronce en la de los labradores y demás artesanos”, República, 415a. 40. Sobre la ridiculez del filósofo, se trata de una nota satírica que se remonta a Tales de Mileto, que habría
+caído en un pozo por mirar hacia las estrellas y no ocuparse de este mundo. Se decía de los filósofos naturalistas que no amaban a su patria ni a los dioses locales. La muerte en manos del pueblo, sin embargo, parece una clara alusión al destino de Sócrates. Si en ambos casos se alude a una diferencia en el modo de vivir de los filósofos, que implica cierto desapego con las cosas de este mundo (mirar hacia arriba), el caso de Sócrates, que tanto ha influido en la concepción de la polis que tendrá Platón, define un tipo filosófico que “vuelve 
+los ojos desde lo alto” para ocuparse de sus contemporáneos y colaborar con su mejoramiento. Incluso en la Apología, Sócrates manifestará su desprecio por el tipo de ocupación de la filosofía naturalista (el Sol, las 
+estrellas, etc.), en tanto carente de interés político y ético. La trascendencia de los valores ético-políticos supone de parte de Sócrates una depreciación del conocimiento de la naturaleza, inscripta en el ámbito de lo visible. 
+Relecturas.indd   47 02/11/2012   13:41:20i. P latón , entre  lo visible  y lo Pensable
+48—Seguramente. 
+—Pues bien, querido Glaucón, debemos aplicar íntegra esta alegoría a lo que anteriormente ha 
+sido dicho, comparando la región que se manifiesta por medio de la vista con la morada-prisión, y la luz del fuego que hay en ella con el poder del sol; compara, por otro lado, el ascenso y con-templación de las cosas que hay arriba con el camino del alma hacia el mundo inteligible, y no 
+te equivocarás en cuanto a lo que estoy esperando, y que es lo que deseas oír. Dios sabe si esto es realmente cierto; en todo caso, lo que a mí me parece es que lo que dentro de lo cognoscible se ve al final, y con dificultad, es la idea del Bien. Una vez percibida, ha de concluirse que es la causa de todas las cosas rectas y bellas, que en el ámbito visible ha engendrado la luz y al señor de ésta, y que en el ámbito inteligible es señora y productora de la verdad y de la inteligencia, y que es necesario tenerla en vista para obrar con sabiduría tanto en lo privado como en lo público.
+—Comparto tu pensamiento, en la medida en que me es posible. —Mira también si lo compartes en esto: no hay que asombrarse de que quienes han llegado 
+allí no estén dispuestos a ocuparse de los asuntos humanos, sino que sus almas aspiran a pasar el tiempo arriba; lo cual es natural, si la alegoría es correcta también en esto. 
+—Muy natural. —Tampoco sería extraño que alguien que de contemplar las cosas divinas pasara a las 
+humanas se comportase desmañadamente y quedara en ridículo por ver de modo confuso y, no acostumbrado aún en forma suficiente a las tinieblas circundantes, se viera forzado, en los tribunales o en cualquier otra parte, a disputar sobre sombras de justicia o sobre las figurillas de las cuales hay sombras, y a reñir sobre esto del modo en que esto es discutido por quienes jamás han visto la Justicia en sí.
+41 
+Hay en el hombre un principio de trascendencia, “algo divino”, que no puede explicarse por la génesis de los 
+seres materiales que sólo da cuenta de su dimensión corporal, animal. Ese “volver desde lo alto” (que no son las estrellas) tiene por objeto ocuparse del modo en que la dimensión trascendente se inscribe en los cuerpos de los ciudadanos, en otras palabras, si el principio intelectivo del alma gobierna el cuerpo y los principios apetitivos. Se dice en República, 430e: “Pero eso de ser dueño de sí mismo ¿no es ridículo? Porque quien es dueño de sí 
+mismo es también esclavo de sí mismo, por lo cual el que es esclavo es también dueño. Pues en todos estos casos se habla de la misma persona”. El hombre es así como un ser escindido y se trata de determinar el tipo de primacía que debe reinar entre las partes. El hombre definido por sus caracteres animales, apetitivos, será precisamente un “invertido”, en el sentido de que lo bajo gobierna lo alto (por ejemplo, pone la inteligencia al servicio de la obtención de placeres o riquezas). La igualación o inversión de lo animal y lo trascendente tiene según Platón su expresión política en la democracia, en tanto lo más bajo del pueblo impone su irracionalidad al todo: “Tal como dice el proverbio, realmente ‘las perras llegan ser como sus amas’ y así también los caballos y los asnos se acostumbran a andar con toda libertad y solemnidad, atropellando a quien les salga al paso si no se hace a un lado”, República, 563c. Se ve cómo, por un lado, se piensa la relación del hombre consigo mismo 
+en términos políticos (gobernarse a sí mismo), y a su vez, la comunidad política como constituida tal como un hombre, con su parte intelectiva que debe gobernar, su parte “irascible” que debe ejercer de guardián al servicio de la inteligencia contra la parte apetitiva: las castas políticas se corresponden a las partes que Platón distingue en el alma humana. Finalmente, es el hombre que se gobierna a sí mismo, según la inteligencia, el que podrá gobernar a los otros trasladando a la polis el mismo principio. 41. Nuevamente la muerte de Sócrates puede dar cuenta de esa diferencia que en vida hace del filósofo un tipoextraño. Pero el punto notable es aquí la puesta en cuestión de los tribunales de justicia. No se trata de decir “los hombres se equivocan o tuercen interesadamente la verdad, en sus juicios”, sino de una separación drástica entre el ámbito de la verdad, iluminado por lo que es Justo en sí, y el ámbito de la polis histórica, que no está fundada 
+Relecturas.indd   48 02/11/2012   13:41:20selección  de textos
+49—De ninguna manera sería extraño. 
+—Pero si alguien tiene sentido común, recuerda que los ojos pueden ver confusamente por 
+dos tipos de perturbaciones: una al trasladarse de la luz a la tiniebla, y otra de la tiniebla a la 
+oscuridad. Y si reflexionamos que lo propio sucede con el alma, cuando vea a un alma turbada y 
+en dificultad para discernir los objetos, en vez de burlarse insensatamente habrá de examinar si es 
+que al salir de una vida luminosa ve confusamente por falta de hábito o si, viniendo de una mayor 
+ignorancia hacia lo más luminoso, es obnubilada por el resplandor. Así, en un caso se felicitará 
+de lo que le sucede y de la vida a que accede, mientras en el otro se apiadará, y, si se quiere reír 
+de ella, su risa será menos absurda que si se descarga sobre el alma que desciende desde la luz. 
+—Lo que dices es razonable. 
+—Debemos considerar entonces, si esto es verdad, que la educación no es como la proclaman 
+algunos. Afirman que cuando la ciencia no está en el alma ellos la ponen, como si se pusiera la vista en ojos ciegos. 
+—Afirman eso, en efecto. 
+—Pues bien, el presente argumento indica que en el alma de cada uno hay el poder de aprender 
+y el órgano para ello, y que, así como el ojo no puede volverse hacia la luz y dejar las tinieblas si no gira todo el cuerpo, del mismo modo hay que volverse desde lo que tiene génesis con toda el 
+sobre lo verdadero y universal, sino sobre lo particular y privado. Cfr Apología, 41d: “Ellos no me acusaron ni 
+condenaron… sino creyendo que me hacían daño”. La justicia de la polis no participa (sino azarosamente) de la 
+Justicia en sí. Tan sólo ve “sombras de justicia”. Se establece así como un “metatribunal”, el de la verdad, para 
+juzgar el tribunal político. En su alegato, Sócrates defiende su práctica ante la verdad y es en aquélla que funda 
+su inocencia tanto como pone en tela de juicio el tribunal y la sentencia que, por lo demás, caerá tan sólo sobre su cuerpo: “No existe mal alguno para el hombre bueno, ni cuando vive ni después de muerto”. Vivo/no vivo no indica una diferencia de valor fundamental, sino bueno-no bueno. Ninguno de los aparentes males de la vida 
+puede implicar un daño para el que conoce el Bien, que los desprecia. Y aunque toda la comunidad juzgue o 
+ridiculice su modo de vida, hasta el punto de matarlo, cabe destacar otra diferencia notable: la valoración de sí mismo por la interioridad. La diferencia entre lo que uno es y lo que uno parece ser se traza aquí con la mayor 
+firmeza. Algunos autores, como Dodds, lo explican en un movimiento que va “de la cultura de la vergüenza a la cultura de la culpa”, Cfr. Dodds, E.: Los griegos y lo irracional, Madrid, Alianza, 1994. Por ejemplo, la 
+figura del daimón socrático que habla al interior de sí como una suerte de “voz de la conciencia” e impide a 
+su portador realizar determinadas acciones éticamente cuestionables, se opone al “juicio de la mirada ajena”, constitutivo de la identificación comunitaria de la polis, pasatiempo de comadronas, dirá Platón, que permite 
+al sofista Trasímaco, en el inicio de la República, decir que un hombre es malo o injusto en la medida en que 
+los otros lo encuentren tal, en tanto no existe un Bien en sí mismo o un criterio de valor objetivo y universal. Se toma la leyenda del anillo de Giges, que hace invisible a su portador y por tanto inmune al enjuiciamiento 
+comunitario de sus conductas. Intentará mostrar Platón que en vida y después de la vida caerá sobre el injusto la justicia objetiva y que es preferible sufrir y ser tomado por malo mientras uno es bueno interiormente, es decir, invisiblemente, que recibir toda suerte de honores superficiales si uno tiene un alma perversa (se construye a 
+partir de aquí la figura del tirano, como el hombre encumbrado por el pueblo, que acaba viviendo como un 
+esclavo de su propia inclinación perversa, encadenado a sus apetitos). Si el juicio, por un lado, se levanta hacia una suerte de metatribunal trascendente, al que se accede con el alma, por el otro, se interioriza. Interioridad y trascendencia (alma-Idea) constituyen un par inseparable para comprender la inscripción del platonismo en los 
+grandes motivos de la historia de occidente (ver nota 21). 
+Relecturas.indd   49 02/11/2012   13:41:20i. P latón , entre  lo visible  y lo Pensable
+50alma hasta que llegue a ser capaz de soportar la contemplación de lo que es, y lo más luminoso 
+de lo que es, que es lo que llamamos el Bien. ¿No es así?42
+—Sí. —Por consiguiente, la educación sería el arte de volver este órgano del alma del modo más 
+fácil y eficaz en que pueda ser vuelto, mas no como si le infundiera la vista, puesto que ya la posee, sino, en caso de que se lo haya girado incorrectamente y no mire donde debe, posibili-
+tando la corrección. 
+—Así parece, en efecto. —Ciertamente, las otras denominadas “excelencias” del alma parecen estar cerca de las del 
+cuerpo, ya que si no se hallan presentes previamente pueden después ser implantadas por el 
+hábito y el ejercicio; pero la excelencia del comprender da la impresión de corresponder más 
+42. Este volverse  (periagogé ) desde lo que tiene génesis  remite a un giro o un cambio de actitud general de la 
+existencia, una conversión de la vida, en la dirección del vínculo entre interioridad y trascendencia. Pero esta 
+vinculación está, por lo menos, ya delineada en la constitución del alma humana (“algo más divino”). Esto 
+expresa la orientación privilegiada del hombre en cuanto constituido por un principio de trascendencia, una 
+situación especial en el ámbito de lo sensible (el alma es como la huella de la trascendencia en el mundo y como una demostración de la trascendencia objetiva: si hay ojo, existe lo visible, así el alma “remite a la pervivencia 
+divina de su objeto”. “Lo divino” se identifica con lo que pervive , con lo que es siempre idéntico a sí mismo). 
+Esto permite diferenciar el tipo de educación filosófica, que Platón aspira a instaurar como institución estatal, de la educación sofística, que pretende introducir en el alma algo que ella no tenía , según el modelo privado del 
+intercambio mercantil y la posesión. Al contrario, la educación operará como “coadyuvante” y “promotora” de una orientación constitutiva: el hombre posee el órgano del saber, luego, permanece por debajo de su naturaleza si no lo ejercita. Esto puede remitir tanto a la “mayéutica” socrática (el educador tan sólo ayuda a extraer del 
+hombre, como a parir, un saber que éste ya posee) como a la teoría de la reminiscencia (el alma ya se ha 
+relacionado con la Idea antes de nacer; ha olvidado, al ser aprisionada en el cuerpo, pero puede recordar con ayuda de las semejanzas del mundo sensible). En todo caso, la vinculación interioridad-trascendencia es como un dato de partida. Pero la vida en la caverna de la actualidad encadena el alma y la dirige “hacia abajo”, separando 
+la inteligencia humana de su objeto inteligible. La educación debe transformar la sociedad humana, propiciando 
+los medios adecuados para la liberación de las almas. En República  532c se dirá: “Toda la actividad de las 
+ciencias que hemos descripto tiene el mismo poder de ir conduciendo lo mejor del alma hasta la contemplación de lo mejor que hay en los entes”. Tomemos este fragmento del  Banquete  211b: “Ésta es justamente la manera 
+correcta de acercarse a las cosas del amor o de ser conducido por otro: empezando por las cosas bellas de aquí y 
+sirviéndose de ellas como de peldaños ir ascendiendo continuamente, en base a aquella belleza, de uno solo a dos 
+y de dos a todos los cuerpos bellos y de los cuerpos bellos a las bellas normas de conducta, y de las normas de conducta a los bellos conocimientos, y partiendo de éstos terminar en aquel conocimiento que es conocimiento no de otra cosa sino de aquella belleza absoluta, para que conozca al fin lo que es la belleza en sí”. Hay aquí un 
+innegable elemento ascético y de desprecio de los placeres corporales, en privilegio de la dimensión espiritual. 
+Ahora bien, si esto implica una reorientación del alma, se entenderá, ésta debe relacionarse consigo misma para que el cambio de dirección sea posible. El movimiento lo hace el alma según el clásico motivo del “cuidado de sí”. Ocúpate de ti mismo (epimeleia  heauton ) era la máxima que organizaba la didáctica de Sócrates y expresa 
+la vinculación de sí mismo con sí mismo como punto de partida de un movimiento de transformación que hace 
+a uno apto para el gobierno de sí mismo y de los otros. Según los análisis de Michel Foucault, esta “ética del 
+cuidado de sí” habría atravesado con Sócrates un giro intelectualista que conducirá al “conócete a ti mismo” (gnoti heauton ), en perjuicio, quizás, de una dimensión propiamente espiritual de la que el conocimiento es, a lo 
+sumo, una faceta. Cfr. M. Foucault: La hermenéutica del sujeto , México, Fondo de Cultura Económica, 2002. La 
+primacía intelectual es aquí indudable. La “iluminación” es cognoscitiva. El convencimiento de que el saber trae el bien y de que el saber libera de las cadenas de la vida es indeclinable. 
+Relecturas.indd   50 02/11/2012   13:41:20selección  de textos
+51bien a algo más divino, que nunca pierde su poder y que, según hacia dónde sea dirigida, es útil 
+y provechosa, o bien inútil y perjudicial. ¿O acaso no te has percatado de que esos que son con-siderados malvados, aunque en realidad son astutos, poseen un alma que mira penetrantemente y ve con agudeza aquellas cosas a las que se dirige, porque no tiene la vista débil sino que está forzada a servir al mal, de modo que, cuanto más agudamente mira, tanto más mal produce?
+—¡Claro que sí!—No obstante, si desde la infancia se trabajara podando en tal naturaleza lo que, con su peso 
+plomífero y su afinidad con lo que tiene génesis y adherido por medio de la glotonería, lujuria y placeres de esa índole, inclina hacia abajo la vista del alma; entonces, desembarazada ésta de ese peso, se volvería hacia lo verdadero, y con este mismo poder en los mismos hombres vería del modo penetrante con que ve las cosas a las cuales está ahora vuelta. 
+—Es probable.—¿Y no es también probable, e incluso necesario a partir de lo ya dicho, que ni los hombres 
+sin educación ni experiencia de la verdad puedan gobernar adecuadamente alguna vez el Estado, ni tampoco aquellos a los que se permita pasar todo su tiempo en el estudio, los primeros por no tener a la vista la única meta a que es necesario apuntar al hacer cuanto se hace privada o públicamente, los segundos por no querer actuar, considerándose como si ya en vida estuviesen residiendo en la Isla de los Bienaventurados? 
+—Verdad. —Por cierto que es una tarea de nosotros, los fundadores de este Estado, obligar a los hombres 
+de naturaleza mejor dotada a emprender el estudio que hemos dicho antes que era el supremo, contemplar el Bien y llevar a cabo aquel ascenso y, tras haber ascendido y contemplado sufi-cientemente, no permitirles lo que ahora se les permite. 
+—¿A qué te refieres? —Quedarse allí y no estar dispuestos a descender junto a aquello prisioneros, ni participar 
+en sus trabajos y recompensas, sean éstas insignificantes o valiosas. 
+—Pero entonces —dijo Glaucón— ¿seremos injustos con ellos y les haremos vivir mal 
+cuando pueden hacerlo mejor? 
+—Te olvidas nuevamente, amigo mío, que la verdadera ley no atiende a que una sola clase 
+(génos) la pase excepcionalmente bien en la Polis, sino que se las compone para generar en la Polis entera esto: que se armonicen los ciudadanos, sea por la persuasión o por la fuerza, haciendo que se presten entre sí servicios, de modo que los de cada clase sean capaces de beneficiar a la comunidad (tò koinón). Y si se forja a tales hombres capaces de contemplar el Bien en la Polis no es para permitir que cada uno se enderece hacia donde le dé la gana (bien privado), sino para utilizarlos para la consolidación de la Polis.
+43 
+43. El Bien político es entonces el bien común, cuyo modelo es el Bien en sí, que sólo es accesible al filósofo,
+quien 
+desprecia en virtud de ello los bienes particulares. De este modo: es aquel que debe ejercer el gobierno. Si 
+has hallado para los que van a gobernar un modo de vida mejor que el gobernar, podrás obtener una polis bien gobernada, Cfr. República, 521a. Tan profundamente ha comprendido Platón el deseo privado que mueve a los 
+que buscan el poder y lo ejercen que el bien político sólo es posible si gobiernan los que no desean gobernar. La primacía de lo común sobre lo privado o particular define una tradición política que tiene como figura preferencial, según los análisis de Michel Foucault, la embarcación, el navío. El político es como el timonel, que conduce el destino unificado de la polis. La tradición hebrea, en cambio, compone un modelo político cuya 
+Relecturas.indd   51 02/11/2012   13:41:20i. P latón , entre  lo visible  y lo Pensable
+52—Es verdad; lo había olvidado, en efecto. 
+—Podrás observar, Glaucón, que no seremos injustos con los filósofos que han surgido entre 
+nosotros, sino que les hablaremos en justicia al forzarlos a ocuparse y cuidar de los demás. Les 
+diremos, en efecto, que es natural que los que han llegado a ser filósofos en otros Estados no 
+participen en los trabajos de éstos, porque se han criado por sí solos, al margen de la voluntad 
+del régimen político respectivo; y aquel que se ha criado solo y sin deber alimento a nadie, en 
+buena justicia no tiene por qué poner celo en compensar su crianza a nadie. “Pero a vosotros 
+os hemos formado tanto para vosotros mismos como para el resto del Estado, para ser conduc-
+tores y reyes de los enjambres, os hemos educado mejor y más completamente que a los otros 
+y más capaces de participar tanto en la filosofía como en la política. Cada uno a su turno, por consiguiente, debéis descender hacia la morada común de los demás y habituaros a contemplar 
+las tinieblas, pues una vez habituados veréis mil veces mejor las cosas de allí y conoceréis cada 
+una de las imágenes y de qué son imágenes, ya que vosotros habréis visto antes la verdad en 
+lo que concierne a las cosas bellas, justas y buenas. Y así el Estado habitará en la vigilia para nosotros y para vosotros, no en el sueño, como pasa actualmente en la mayoría de los Estados, 
+donde compiten entre sí como entre sombras y disputan en torno al gobierno, como si fuera algo 
+figura preferencial es la del pastor. Si pensamos en la famosa parábola de “la oveja perdida”, allí se nos narra 
+cómo el gobernante se ocupa en particular de la oveja extraviada. Dicho brutalmente, en el barco el que se separa se ahoga. La dimensión privada es prácticamente nula. Todo es común. Foucault opone así un modelo 
+político “totalizador” a otro “individualizador”, Cfr. M. Foucault: “Omnes et singulatim”, en Tecnologías del 
+yo, Barcelona, Paidós, 1996. En Platón la primera opción llega a un límite notable. Lo privado es para Platón 
+fuente de disensión política, necesariamente conduce a privilegiar los intereses egoístas sobre el interés de la comunidad, cuya consecuencia es la tiranía (el deseo de uno, convertido en ley de todos). Los gobernantes 
+y guardianes de la polis “sólo tienen de privado su cuerpo”: poseen todo en común, incluidos los hijos. Tan 
+sólo tienen derecho a la propiedad privada los artesanos y comerciantes, es decir, aquellos que no participan de la vida política de la polis, de lo público: “¿No es, entonces, como digo, cuando las cosas antes dichas y las que decimos ahora las realizan más aún como verdaderos guardianes y les impiden despedazar el Estado, al denominar ‘lo mío’ no a la misma cosa sino a otra, arrastrando uno hacia su propia casa lo que ha podido 
+adquirir separadamente de los demás, otro hacia una casa distinta, llamando ‘míos’ a mujeres y niños distintos 
+que por ser privados producen dolores privados?... Y los pleitos y acusaciones entre ellos ¿no se esfumarán, por así decirlo, en razón de no poseer nada privadamente excepto el cuerpo, y todo el resto en común? De allí que les corresponda estar exentos de las disensiones que, por riquezas, hijos y parientes, separan a los hombres”, 
+República, 464c-d. La escisión es entonces excluyente: de un lado, lo común o público, de otro, lo particular y 
+privado. Los últimos deben someterse “por la persuasión o por la fuerza” a las decisiones políticas y ocuparse, a partir de ello, tan sólo de su oficio o técnica particular y no pretender ningún tipo de participación política. El labrador labra. Cada forma de vida se define por su objeto práctico. Pero el objeto de la praxis filosófica es, precisamente, lo común, ¿cómo no va a ocuparse de las cosas de todos? En términos contemporáneos, 
+Platón asumiría al extremo la siguiente postura: la política determina y define los límites de la producción y el 
+intercambio. Define también la aptitud de cada quien para un oficio (es decir, la condición política y la dignidad ciudadana). E incluso en el orden de la reproducción de los ciudadanos, incide (tomando como ejemplo la cruza del ganado), aunque subrepticiamente, en las cosas del amor, de cara a determinar quién debe procrear con 
+quién para propiciar el mejoramiento de los ciudadanos, que luego el sistema educativo (suerte de carrera de postas que va dejando eliminados a aquellos menos dotados, destinados a los oficios menores) buscará elevar hacia la condición filosófica. Forjar a los hombres, entonces, es una expresión que no puede minimizarse: “La crianza y la educación, debidamente garantizadas, forman buenas naturalezas, y, a su vez, las buenas naturalezas, asistidas por semejante educación, se tornan mejores aún que las precedentes en las distintas 
+actividades y también en la procreación, como sucede también con los otros animales”, República, 424a. 
+Relecturas.indd   52 02/11/2012   13:41:20selección  de textos
+53de gran valor. Pero lo cierto es que el Estado en el que menos anhelan gobernar quienes han de 
+hacerlo es forzosamente el mejor y el más alejado de disensiones, y lo contrario cabe decir del que tenga los gobernantes contrarios a esto.” 
+Arte y realidad (595a-601a) 
+—Y en verdad —dije—, aunque me atengo a muchas razones para creer que estamos fun-
+dando el Estado más perfecto posible, lo afirmo, sobre todo al considerar nuestro reglamento 
+sobre la poesía.
+—¿Qué reglamento? —El que no admite en forma alguna que sea imitativa. Ahora, después de haber precisado 
+con claridad las diferentes partes del alma, esta prohibición me parece de una necesidad más absoluta y evidente. 
+—¿Cómo lo explicas? —A vosotros os lo puedo decir, pues no iréis a acusarme ante los poetas trágicos y todos los 
+que hacen imitaciones: me parece que todas esas obras corrompen el pensamiento de cuantos las escuchan, a menos que éstos posean al antídoto, es decir, el conocimiento de cuál es su 
+verdadera naturaleza. 
+—¿Qué razón tienes para hablar así? —preguntó. —Debo decírtela —contesté—, aunque se oponga a ello una especie de afecto y de respeto 
+que siento desde niño por Homero. Puede afirmarse, en efecto, que éste ha sido el primer maestro y el guía de todos esos grandes poetas trágicos. Pero es preciso que hable, como os dije, pues 
+por mucho que se estime a un hombre, más debe estimarse la verdad.
+—Ciertamente —dijo —Escucha, pues, o más bien respóndeme 
+—Pregunta. 
+—¿Podrías explicarme qué es la imitación en general? Porque yo no llego a comprender 
+muy bien lo que significa. 
+—¡Y supones —exclamó— que a mí me será menos difícil comprenderlo! —No tendría nada de extraño —repliqué—. Suele suceder que los cortos de vista perciben 
+los objetos antes que otros que tienen la vista penetrante. 
+—Es verdad —dijo—, pero en tu presencia no tendría la audacia de expresar mi opinión, ni 
+siquiera sobre aquello que me pareciera evidente. Habla tú, pues, te lo suplico. 
+—¿Quieres, pues, que comencemos el examen partiendo de este punto, según nuestro método 
+habitual? Tenemos por costumbre, en efecto, concretar en una idea general una multitud de cosas a las que damos el mismo nombre. ¿Entiendes? 
+—Sí —Tomemos, pues, una de las tantas multitudes de cosas. Hay, por ejemplo, una multitud de 
+camas y otra de mesas. ¿Estamos? 
+—¿Cómo no habría de haberlas? 
+—Pero las ideas correspondientes a esos muebles son dos: una idea de cama y otra de mesa. 
+Relecturas.indd   53 02/11/2012   13:41:20i. P latón , entre  lo visible  y lo Pensable
+54—Sí. 
+—Ahora bien, ¿no acostumbramos decir que los artesanos que fabrican las camas y las mesas 
+de que nos servimos, e igualmente las demás cosas, las construyen de acuerdo con la idea que tienen de ellas? Porque ningún artesano, desde luego, construye la idea en sí. ¿Cómo habría de hacerlo? 
+—De ninguna manera. —Veamos ahora qué nombre darías al siguiente artesano. —¿A cuál? —Al que hace todo lo que hacen separadamente cada uno de los trabajadores manuales. —¡Hablas de un hombre muy hábil y muy extraordinario! —Espera un momento: habrás de admirarlo más todavía. Este artesano no sólo es capaz de 
+fabricar toda clase de objetos artificiales, sino que hace también todo cuanto nace de la tierra y todos los seres vivos, inclusive su propia persona, y además de la tierra hace el cielo, los dioses y todo lo que hay en el cielo y en el Hades bajo la tierra. 
+—¡Qué talento! —exclamó—. Es un artista maravilloso. —¿Lo pones en duda? —pregunté—. Dime, ¿te parece que no existe un artesano semejante, 
+o que pueda haber en cierta forma un creador de todo eso, y en cierta forma no? ¿No ves que túmismo, al menos en cierta forma, serías capaz de crear todas esas cosas? 
+—¿Y qué forma es ésa? —preguntó. —No es difícil —contesté—, y puede llevarse a la práctica rápidamente, en un momento si 
+quieres; te basta tomar un espejo y dirigirlo hacia todos lados; enseguida harás el sol y lo que hay en el cielo, la tierra, a ti mismo, a los demás seres vivos, los objetos fabricados, las plantas y cuanto acabamos de mencionar. 
+—Sí —replicó—, creaciones aparentes, pero sin ninguna realidad.
+44 
+—Muy bien —dije—, comprendes perfectamente el sentido de mis palabras, y entre esa clase 
+de artesanos está, creo yo, el pintor. ¿No es así? 
+—Sin duda. —Y dirás, supongo, que lo que hace no es verdadero. Sin embargo, el pintor hace una cama 
+en cierta forma, ¿no? 
+44. Se alude ya al poeta tanto como al pintor, que construyen imitaciones de todo lo que es. Puede verificarse
+aquí como un conflicto de dominios entre la filosofía y la poesía. En efecto, se trata de dos discursos que 
+hablan de la totalidad de lo real. Pero el modelo técnico según el cual hay una primacía intelectual a la hora de fabricar un objeto nos lleva a preguntarnos cómo es posible un artesano o técnico capaz de conocer cada una de las Ideas, para fabricar los objetos según su modelo trascendente, o bien cómo aquel que construye enunciados acerca de la totalidad de lo real puede unificar esta totalidad según un principio racional. Sabemos que el filósofo se relaciona con el Bien, que es el fundamento que articula cada una de las Ideas y les da su valor (notas 13 y 14). ¿En qué sentido los productos de la poesía pueden aspirar a esta totalidad, que en el caso del filósofo expresa el movimiento de su alma en dirección a lo trascendente? La analogía con el espejo que refleja automáticamente lo que se le pone enfrente indica dos diferencias fundamentales: por un lado, el objeto que la poesía produce o reproduce es una versión puramente superficial de la cosa que imita; por el otro, no acredita ningún conocimiento, ni un verdadero esfuerzo intelectual, de parte del poeta. La argumentación contra la poesía, así, complica dos niveles, vinculados recursivamente, que se pueden distinguir: se critica el producto (¿qué tipo de realidad es el poema o la pintura?, ¿cómo se vincula con las Ideas?) y se critica al productor (¿qué tipo de actividad, o práctica, realiza?, ¿cómo participa la inteligencia en esta actividad?). 
+Relecturas.indd   54 02/11/2012   13:41:20selección  de textos
+55—Sí —dijo—, al menos, una cama aparente. 
+—¿Y qué hace el fabricante de camas? ¿No acabas de decir que no hace la idea, que afirma-
+mos que es la esencia de la cama, sino una cama determinada? 
+—En efecto, lo acabo de decir. —Pues bien, si no hace una esencia, no hace lo que es real, sino algo que se parece a ello, 
+pero que no es real. Por lo tanto, ¿no crees tú que probablemente se engañase quien sostuviera que la obra del fabricante de camas o de cualquier otro artesano es completamente real? 
+—Al menos —contestó— tal es la opinión de quienes se ocupan de estas cuestiones. —Por lo tanto, el arte imitativo está muy lejos de lo verdadero y, como es natural, puede 
+hacerlo todo porque toma muy poco de cada cosa y aun ese poco que toma no es más que una 
+simple apariencia. Por ejemplo, un pintor nos representará un zapatero, un carpintero y cualquier 
+otro artesano sin tener ningún conocimiento de los oficios que ejercen. Sin embargo, si es un 
+buen pintor, podrá engañar a los niños y a los ignorantes, mostrándoles de lejos el carpintero por 
+él pintado y haciéndoles tomar la apariencia por el carpintero de verdad.
+45 
+—Seguramente. 
+—En consecuencia, amigo mío, debemos pensar lo siguiente: cuando alguien venga a de-
+cirnos que ha encontrado un hombre que sabe todos los oficios y que tiene un conocimiento en todo más perfecto que el de cualquier especialista, habremos de contestarle que es un ingenuo y 
+que, sin duda, se ha dejado engañar por algún charlatán o por algún imitador a quien ha creído 
+omnisciente en razón de no ser él capaz de distinguir entre la ciencia, la ignorancia y la imitación.
+ 
+—Es muy cierto —afirmó. 
+—Ahora —proseguí— debemos considerar la tragedia y a Homero, su padre, puesto que 
+algunos nos dicen que los poetas trágicos conocen todas las artes y todas las cosas humanas re-lativas al vicio y a la virtud, y hasta todo lo que concierne a los dioses, porque es indispensable, 
+según afirman, que el buen poeta conozca perfectamente los asuntos que trata si quiere tratarlos 
+bien, ya que de otro modo fracasaría en su empeño. Debemos, pues, examinar si quienes esto 
+dicen no se han dejado engañar por imitadores, y al ver sus obras no se han percatado de que 
+éstas se hallan a tres grados de distancia de la realidad y que son fáciles de componer sin conocer 
+la verdad, pues sus autores crean apariencias y no realidades, o si, por lo contrario, tiene algún 
+45. Si la Idea era un ser en sí mismo y la cosa que se asemejaba, un ser por participación y menos real que su 
+arquetipo, aquí los productos de la poesía caen a un nivel inferior que Platón definirá como “copia de copia” y, luego, tres veces alejado de la realidad en sí y de lo verdadero. Recordemos, entonces, que si el “ser” se decía en 
+Platón en distintos sentidos (de la Idea, de la cosa visible, del fundamento), hemos de predicarlo a partir de ahora 
+en un nuevo sentido, el último de todos: ser como copia de una copia . De manera que la estrategia argumental en 
+la República  consiste en situar a los productos del arte en el último escalón de la realidad, en el grado más bajo 
+de la escala de los seres. De este modo, las producciones en cuestión quedan degradadas en su ser por debajo de 
+las cosas visibles (un poema es menos real que una cama y que un zapato). Casi irreales, lindantes con el no-ser, 
+sin embargo, no hay que decir que el no-ser es , a riesgo de que la identidad de lo que es consigo mismo y con el 
+pensamiento se vea conmocionada. Podemos apuntar ahora cómo es que la poesía podía afectar el fundamento de la ciudad (el Bien) y en qué medida su irracionalidad constitutiva era de una naturaleza especial, crucial para la filosofía platónica. Lo irracional consiste en decir que el no-ser es; en otras palabras, que algo es impensable, 
+que hay una grieta ontológica que frustra desde el vamos el pensamiento de Platón. 
+Relecturas.indd   55 02/11/2012   13:41:20i. P latón , entre  lo visible  y lo Pensable
+56fundamento lo que dicen y si, en efecto, los buenos poetas conocen a fondo los asuntos sobre 
+los cuales, a juicio de la multitud, hablan tan cumplidamente. 
+—Por cierto —replicó—, debemos examinarlo con cuidado. 
+—¿Crees tú que quien fuera capaz de hacer las dos cosas, la imitación del objeto y el objeto 
+imitado, aspiraría a consagrarse a la producción de apariencias y a proponérselo en la vida como si hubiese elegido lo mejor? 
+—No lo creo. —Pues si tuviera un verdadero conocimiento de aquello que sabe imitar, preferiría consa-
+grarse a realizarlo, creo yo, que a imitarlo, y procuraría legar a la posteridad, como otros tantos monumentos de sí mismo, muchas y hermosas obras, deseando ser, más que el autor, el objeto de un elogio. 
+—También lo creo —dijo—, porque la honra y el provecho serían muy superiores. —No exijamos, pues, a Homero ni a ningún otro poeta que nos rindan cuenta de las muchas 
+cosas de que nos hablaron, preguntándoles si alguno de ellos era un hábil médico, y no un simple 
+imitador del lenguaje de los médicos, ni preguntaremos a quienes se dice que cualquiera de los 
+poetas antiguos o recientes ha sanado, como Asclepio, o qué discípulos en medicina ha dejado 
+tras de sí, como éste dejó a sus descendientes, ni los interrogaremos en lo tocante a las otras artes; 
+dejémoslo pasar. Pero en lo que respecta a los temas tan importantes y hermosos que se permite 
+tratar Homero, como la guerra, la estrategia, la administración de las ciudades y la educación 
+del hombre, puede que sea justo interrogarle y decirle: “Amigo Homero: si es cierto que no estás 
+alejado en tres grados de la verdad que seas incapaz de producir, en cuanto a la virtud, otra cosa 
+que apariencias, pues ésa era la definición que hemos dado del imitador, sino que has alcanzado 
+el segundo grado y eres capaz de conocer qué instituciones hacen mejores o peores a los hombres 
+en la vida pública y privada, dinos qué ciudad te debe la feliz reforma de su administración, como 
+Lacedemonia se la debe a Licurgo, y muchas otras ciudades grandes y pequeñas se las deben a 
+muchos otros. ¿Qué Estado te atribuye ser buen legislador en su beneficio, como lo atribuyen a 
+Italia y Sicilia a Carondas y nosotros a Solón? ¿Y a ti cuál Estado? ¿Puedes mencionar uno?”
+ 
+—No creo —dijo Glaucón—, pues ni siquiera lo mencionan los devotos de Homero.—¿Y qué guerra se recuerda del tiempo de Homero que haya sido bien conducida bajo su 
+mando o siguiendo su consejo?
+—Ninguna.
+—¿Pero se cuentan de él obras propias de un sabio, tales como invenciones ingeniosas múl-
+tiples para las artes o para algún tipo de actividad, del mismo modo que se cuentan de Tales de Mileto y Anacarsis el escita?
+—Nada de esa índole.—Pero si no se puede decir nada de él en lo público, ¿sí en lo privado? ¿Se cuenta que Ho-
+mero mismo, mientras vivía, ha dirigido la educación de algunos que lo han amado por su trato y que han legado a sus sucesores alguna vía homérica de vida, tal como Pitágoras fue amado 
+excepcionalmente por esto, al punto de que sus sucesores aún hoy denominan “pitagórico” un modo de vida por el cual resultan distintos de los demás hombres?
+Relecturas.indd   56 02/11/2012   13:41:20selección  de textos
+57—No, nada de eso se cuenta. Pues en cuanto a Creófilo, el discípulo de Homero, Sócrates, 
+tal vez parezca más ridículo por su educación que por su nombre, si es cierto lo que se cuenta 
+acerca de Homero; pues se cuenta que éste padeció en vida un gran descuido por parte de aquél.
+—En efecto, se cuenta eso. Pero ¿piensas, Glaucón, que si Homero hubiese sido realmente 
+capaz de educar a los hombres y hacerlos mejorar no habría hecho numerosos discípulos que 
+lo honraran y amaran? Sin embargo, el caso es que Protágoras de Abdera, Pródico de Ceos y 
+muchos otros, en sus lecciones privadas, podían inculcar en sus contemporáneos la idea de que 
+no serían capaces de administrar ni su casa ni su Estado si ellos no supervisaban su educación, y 
+por esta sabiduría eran amados hasta tal punto que por poco sus discípulos no los paseaban sobre 
+sus hombros; los contemporáneos de Homero, por el contrario, si éste hubiera podido ayudar a los hombres respecto a la excelencia, ¿les habrían permitido a éste y a Hesíodo ir recitando sus 
+poemas de un lado a otro? Más bien ¿no se habrían aferrado a ellos más que al oro y los habrían 
+obligado a vivir consigo en sus casas y, en caso de no persuadirlos, no los habrían seguido por 
+cualquier lado por donde fueran, hasta sacar suficiente partido de su enseñanza?
+—Creo, Sócrates, que dices absolutamente la verdad. 
+—Diremos pues, de todos los poetas, empezando por Homero, que cuando en sus ficciones 
+hablan de la virtud, o de cualquier otro asunto, no hacen otra cosa que imitar su apariencia y no alcanzan nunca la verdad, a la manera del pintor de que hablábamos antes, que hará un retrato 
+del zapatero sin entender nada de zapatería, y que ese retrato parecerá un verdadero zapatero a 
+los que no entienden nada del oficio, como él mismo, y sólo juzgan por los colores y las formas. 
+—Bien seguro —De igual modo diremos que el poeta, a mi juicio, por no saber otra cosa que imitar, aplica 
+a todos los temas los colores que les convienen, valiéndose de palabras y de frases, ya se trate de zapatería, ya de estrategia, ya de cualquier otro asunto, y utilizando el metro, el ritmo y la 
+armonía convence a quienes lo escuchan, y que sólo juzgan por el lenguaje, de que está instruido 
+de las cosas de que habla. ¡Tan grande es la seducción natural que poseen esas formas artísticas!
+Relecturas.indd   57 02/11/2012   13:41:20i. P latón , entre  lo visible  y lo Pensable
+58Fuentes
+Eggers Lan, Conrado: El sol, la línea y la caverna, Buenos Aires, Colihue, 2000. 
+Platón: República, Buenos Aires, Eudeba, 2003. Traducción: Antonio Camarero. 
+Platón: República, Madrid, Gredos, 1986. Traducción: Conrado Eggers Lan.
+Nota 
+Aunque se ha seguido la traducción de Eggers Lan de 1986, hemos realizado modificaciones 
+en razón del carácter introductorio de esta selección. El criterio para ello ha sido el del propio Eggers Lan en su estudio didáctico El sol, la línea y la caverna, y la traducción de Antonio 
+Camarero de 2003. En los casos en que las modificaciones o la conservación de la traducción 
+fuente afectan términos técnicos, hemos dejado entre paréntesis la transliteración del vocablo 
+griego para facilitar la contrastación de las distintas opciones. 
+Bibliografía citada
+Cacciari, M.: El dios que baila, Buenos Aires, Paidós, 2000.Deleuze, G.: Lógica del sentido, Buenos Aires, Paidós, 1994.
+— y Guattari, F.: ¿Qué es la filosofía?, Barcelona, Anagrama, 2005.
+Dodds, E. R.: Los griegos y lo irracional, Madrid, Alianza, 1994.
+Foucault, M.: La hermenéutica del sujeto, México, Fondo de Cultura Económica, 2002.
+— “Omnes et singulatim”, en Tecnologías del yo, Barcelona, Paidós, 1996.
+— y Deleuze, G.: Tehatrum Philosophicum, Barcelona, Anagrama, 1999.
+Guthrie, W.: Historia de la filosofía griega IV, Gredos, Madrid, 1996.
+Heidegger, M.: Caminos de bosque, Madrid, Alianza, 1996.
+— Identidad y diferencia, Barcelona, Anthropos, 1990.
+Parménides: “Fragmentos”, en Filósofos Presocráticos I, Madrid, Gredos, 1978. Traducción de 
+C. Eggers Lan.
+Platón: Apología de Sócrates, Banquete, Madrid, Gredos, 1993. Traducción de J. Calongue, M. 
+Martínez Hernández.
+— Cratilo, Madrid, Gredos, 1992. Traducción de J. Calvo. 
+— Ion, Madrid, Gredos, 2000. Traducción de E. Lledó.
+— Parménides, Teeteto, Sofista, Madrid, Gredos, 1992. Traducción de M. Santa Cruz, A. Vallejo 
+Campos, N. Cordero. 
+Serres, M.: Los orígenes de la geometría, Madrid, Siglo XXI, 1996.
+Vernant, J.: Los orígenes del pensamiento griego, Buenos Aires, Paidós, 2011.
+Wahl, J.: Tratado de metafísica, México, Fondo de Cultura Económica, 1960.
+Relecturas.indd   58 02/11/2012   13:41:21
