@@ -26,4 +26,4 @@ Bienvenido al proyecto de Filósofo Virtual, una iniciativa para entrenar un mod
 
 ## Script de Entrenamiento
 
-Ver delphayTrain
+Ver delphai_train.py
